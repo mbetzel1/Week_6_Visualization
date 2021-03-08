@@ -1,0 +1,981 @@
+,time,Room,Day,Class,Enrollment,Instructor,Str_Start,Str_End
+0,1/1/1900 8:00,2160,Friday,NSSA( 241)-Intro.RoutingandSwitching,30,Sharon Mason,8:00,9:50
+1,1/1/1900 8:30,2160,Friday,NSSA( 241)-Intro.RoutingandSwitching,30,Sharon Mason,8:00,9:50
+2,1/1/1900 9:00,2160,Friday,NSSA( 241)-Intro.RoutingandSwitching,30,Sharon Mason,8:00,9:50
+3,1/1/1900 9:30,2160,Friday,NSSA( 241)-Intro.RoutingandSwitching,30,Sharon Mason,8:00,9:50
+4,1/1/1900 10:00,2160,Friday,N/A,0,N/A,N/A,N/A
+5,1/1/1900 10:30,2160,Friday,N/A,0,N/A,N/A,N/A
+6,1/1/1900 11:00,2160,Friday,N/A,0,N/A,N/A,N/A
+7,1/1/1900 11:30,2160,Friday,N/A,0,N/A,N/A,N/A
+8,1/1/1900 12:00,2160,Friday,NSSA( 241)-Intro.RoutingandSwitching,30,Sylvia Perez-Hardy,12:00,13:50
+9,1/1/1900 12:30,2160,Friday,NSSA( 241)-Intro.RoutingandSwitching,30,Sylvia Perez-Hardy,12:00,13:50
+10,1/1/1900 13:00,2160,Friday,NSSA( 241)-Intro.RoutingandSwitching,30,Sylvia Perez-Hardy,12:00,13:50
+11,1/1/1900 13:30,2160,Friday,NSSA( 241)-Intro.RoutingandSwitching,30,Sylvia Perez-Hardy,12:00,13:50
+12,1/1/1900 14:00,2160,Friday,NSSA( 241)-Intro.RoutingandSwitching,30,Bruce Hartpence,14:00,15:50
+13,1/1/1900 14:30,2160,Friday,NSSA( 241)-Intro.RoutingandSwitching,30,Bruce Hartpence,14:00,15:50
+14,1/1/1900 15:00,2160,Friday,NSSA( 241)-Intro.RoutingandSwitching,30,Bruce Hartpence,14:00,15:50
+15,1/1/1900 15:30,2160,Friday,NSSA( 241)-Intro.RoutingandSwitching,30,Bruce Hartpence,14:00,15:50
+16,1/1/1900 16:00,2160,Friday,N/A,0,N/A,N/A,N/A
+17,1/1/1900 16:30,2160,Friday,N/A,0,N/A,N/A,N/A
+18,1/1/1900 17:00,2160,Friday,N/A,0,N/A,N/A,N/A
+19,1/1/1900 17:30,2160,Friday,N/A,0,N/A,N/A,N/A
+20,1/1/1900 18:00,2160,Friday,N/A,0,N/A,N/A,N/A
+21,1/1/1900 18:30,2160,Friday,N/A,0,N/A,N/A,N/A
+22,1/1/1900 19:00,2160,Friday,N/A,0,N/A,N/A,N/A
+23,1/1/1900 19:30,2160,Friday,N/A,0,N/A,N/A,N/A
+24,1/1/1900 20:00,2160,Friday,N/A,0,N/A,N/A,N/A
+25,1/1/1900 20:30,2160,Friday,N/A,0,N/A,N/A,N/A
+26,1/1/1900 21:00,2160,Friday,N/A,0,N/A,N/A,N/A
+27,1/1/1900 21:30,2160,Friday,,0,,21:30,22:00
+28,1/1/1900 8:00,2160,Monday,,0,,8:00,8:30
+29,1/1/1900 8:30,2160,Monday,N/A,0,N/A,N/A,N/A
+30,1/1/1900 9:00,2160,Monday,N/A,0,N/A,N/A,N/A
+31,1/1/1900 9:30,2160,Monday,N/A,0,N/A,N/A,N/A
+32,1/1/1900 10:00,2160,Monday,N/A,0,N/A,N/A,N/A
+33,1/1/1900 10:30,2160,Monday,N/A,0,N/A,N/A,N/A
+34,1/1/1900 11:00,2160,Monday,N/A,0,N/A,N/A,N/A
+35,1/1/1900 11:30,2160,Monday,N/A,0,N/A,N/A,N/A
+36,1/1/1900 12:00,2160,Monday,N/A,0,N/A,N/A,N/A
+37,1/1/1900 12:30,2160,Monday,N/A,0,N/A,N/A,N/A
+38,1/1/1900 13:00,2160,Monday,N/A,0,N/A,N/A,N/A
+39,1/1/1900 13:30,2160,Monday,N/A,0,N/A,N/A,N/A
+40,1/1/1900 14:00,2160,Monday,N/A,0,N/A,N/A,N/A
+41,1/1/1900 14:30,2160,Monday,N/A,0,N/A,N/A,N/A
+42,1/1/1900 15:00,2160,Monday,N/A,0,N/A,N/A,N/A
+43,1/1/1900 15:30,2160,Monday,N/A,0,N/A,N/A,N/A
+44,1/1/1900 16:00,2160,Monday,N/A,0,N/A,N/A,N/A
+45,1/1/1900 16:30,2160,Monday,N/A,0,N/A,N/A,N/A
+46,1/1/1900 17:00,2160,Monday,N/A,0,N/A,N/A,N/A
+47,1/1/1900 17:30,2160,Monday,N/A,0,N/A,N/A,N/A
+48,1/1/1900 18:00,2160,Monday,N/A,0,N/A,N/A,N/A
+49,1/1/1900 18:30,2160,Monday,N/A,0,N/A,N/A,N/A
+50,1/1/1900 19:00,2160,Monday,N/A,0,N/A,N/A,N/A
+51,1/1/1900 19:30,2160,Monday,N/A,0,N/A,N/A,N/A
+52,1/1/1900 20:00,2160,Monday,N/A,0,N/A,N/A,N/A
+53,1/1/1900 20:30,2160,Monday,N/A,0,N/A,N/A,N/A
+54,1/1/1900 21:00,2160,Monday,N/A,0,N/A,N/A,N/A
+55,1/1/1900 21:30,2160,Monday,,0,,21:30,22:00
+56,1/1/1900 8:00,2160,Thursday,,0,,8:00,8:30
+57,1/1/1900 8:30,2160,Thursday,N/A,0,N/A,N/A,N/A
+58,1/1/1900 9:00,2160,Thursday,N/A,0,N/A,N/A,N/A
+59,1/1/1900 9:30,2160,Thursday,N/A,0,N/A,N/A,N/A
+60,1/1/1900 10:00,2160,Thursday,N/A,0,N/A,N/A,N/A
+61,1/1/1900 10:30,2160,Thursday,N/A,0,N/A,N/A,N/A
+62,1/1/1900 11:00,2160,Thursday,N/A,0,N/A,N/A,N/A
+63,1/1/1900 11:30,2160,Thursday,N/A,0,N/A,N/A,N/A
+64,1/1/1900 12:00,2160,Thursday,N/A,0,N/A,N/A,N/A
+65,1/1/1900 12:30,2160,Thursday,N/A,0,N/A,N/A,N/A
+66,1/1/1900 13:00,2160,Thursday,N/A,0,N/A,N/A,N/A
+67,1/1/1900 13:30,2160,Thursday,N/A,0,N/A,N/A,N/A
+68,1/1/1900 14:00,2160,Thursday,N/A,0,N/A,N/A,N/A
+69,1/1/1900 14:30,2160,Thursday,N/A,0,N/A,N/A,N/A
+70,1/1/1900 15:00,2160,Thursday,N/A,0,N/A,N/A,N/A
+71,1/1/1900 15:30,2160,Thursday,N/A,0,N/A,N/A,N/A
+72,1/1/1900 16:00,2160,Thursday,N/A,0,N/A,N/A,N/A
+73,1/1/1900 16:30,2160,Thursday,N/A,0,N/A,N/A,N/A
+74,1/1/1900 17:00,2160,Thursday,NSSA( 241)-Intro.RoutingandSwitching,30,Lawrence Hill,17:00,18:50
+75,1/1/1900 17:30,2160,Thursday,NSSA( 241)-Intro.RoutingandSwitching,30,Lawrence Hill,17:00,18:50
+76,1/1/1900 18:00,2160,Thursday,NSSA( 241)-Intro.RoutingandSwitching,30,Lawrence Hill,17:00,18:50
+77,1/1/1900 18:30,2160,Thursday,NSSA( 241)-Intro.RoutingandSwitching,30,Lawrence Hill,17:00,18:50
+78,1/1/1900 19:00,2160,Thursday,N/A,0,N/A,N/A,N/A
+79,1/1/1900 19:30,2160,Thursday,N/A,0,N/A,N/A,N/A
+80,1/1/1900 20:00,2160,Thursday,N/A,0,N/A,N/A,N/A
+81,1/1/1900 20:30,2160,Thursday,N/A,0,N/A,N/A,N/A
+82,1/1/1900 21:00,2160,Thursday,N/A,0,N/A,N/A,N/A
+83,1/1/1900 21:30,2160,Thursday,,0,,21:30,22:00
+84,1/1/1900 8:00,2160,Tuesday,,0,,8:00,8:30
+85,1/1/1900 8:30,2160,Tuesday,N/A,0,N/A,N/A,N/A
+86,1/1/1900 9:00,2160,Tuesday,N/A,0,N/A,N/A,N/A
+87,1/1/1900 9:30,2160,Tuesday,N/A,0,N/A,N/A,N/A
+88,1/1/1900 10:00,2160,Tuesday,N/A,0,N/A,N/A,N/A
+89,1/1/1900 10:30,2160,Tuesday,N/A,0,N/A,N/A,N/A
+90,1/1/1900 11:00,2160,Tuesday,N/A,0,N/A,N/A,N/A
+91,1/1/1900 11:30,2160,Tuesday,N/A,0,N/A,N/A,N/A
+92,1/1/1900 12:00,2160,Tuesday,N/A,0,N/A,N/A,N/A
+93,1/1/1900 12:30,2160,Tuesday,N/A,0,N/A,N/A,N/A
+94,1/1/1900 13:00,2160,Tuesday,N/A,0,N/A,N/A,N/A
+95,1/1/1900 13:30,2160,Tuesday,N/A,0,N/A,N/A,N/A
+96,1/1/1900 14:00,2160,Tuesday,N/A,0,N/A,N/A,N/A
+97,1/1/1900 14:30,2160,Tuesday,N/A,0,N/A,N/A,N/A
+98,1/1/1900 15:00,2160,Tuesday,N/A,0,N/A,N/A,N/A
+99,1/1/1900 15:30,2160,Tuesday,N/A,0,N/A,N/A,N/A
+100,1/1/1900 16:00,2160,Tuesday,N/A,0,N/A,N/A,N/A
+101,1/1/1900 16:30,2160,Tuesday,N/A,0,N/A,N/A,N/A
+102,1/1/1900 17:00,2160,Tuesday,NSSA( 441)-AdvancedRoutingAndSwitching,8,"Bruce Hartpence,",17:00,19:50
+103,1/1/1900 17:30,2160,Tuesday,NSSA( 441)-AdvancedRoutingAndSwitching,8,"Bruce Hartpence,",17:00,19:50
+104,1/1/1900 18:00,2160,Tuesday,NSSA( 441)-AdvancedRoutingAndSwitching,8,"Bruce Hartpence,",17:00,19:50
+105,1/1/1900 18:30,2160,Tuesday,NSSA( 441)-AdvancedRoutingAndSwitching,8,"Bruce Hartpence,",17:00,19:50
+106,1/1/1900 19:00,2160,Tuesday,NSSA( 441)-AdvancedRoutingAndSwitching,8,"Bruce Hartpence,",17:00,19:50
+107,1/1/1900 19:30,2160,Tuesday,NSSA( 441)-AdvancedRoutingAndSwitching,8,"Bruce Hartpence,",17:00,19:50
+108,1/1/1900 20:00,2160,Tuesday,N/A,0,N/A,N/A,N/A
+109,1/1/1900 20:30,2160,Tuesday,N/A,0,N/A,N/A,N/A
+110,1/1/1900 21:00,2160,Tuesday,N/A,0,N/A,N/A,N/A
+111,1/1/1900 21:30,2160,Tuesday,,0,,21:30,22:00
+112,1/1/1900 8:00,2160,Wednesday,,0,,8:00,8:30
+113,1/1/1900 8:30,2160,Wednesday,N/A,0,N/A,N/A,N/A
+114,1/1/1900 9:00,2160,Wednesday,N/A,0,N/A,N/A,N/A
+115,1/1/1900 9:30,2160,Wednesday,N/A,0,N/A,N/A,N/A
+116,1/1/1900 10:00,2160,Wednesday,N/A,0,N/A,N/A,N/A
+117,1/1/1900 10:30,2160,Wednesday,N/A,0,N/A,N/A,N/A
+118,1/1/1900 11:00,2160,Wednesday,N/A,0,N/A,N/A,N/A
+119,1/1/1900 11:30,2160,Wednesday,N/A,0,N/A,N/A,N/A
+120,1/1/1900 12:00,2160,Wednesday,N/A,0,N/A,N/A,N/A
+121,1/1/1900 12:30,2160,Wednesday,N/A,0,N/A,N/A,N/A
+122,1/1/1900 13:00,2160,Wednesday,N/A,0,N/A,N/A,N/A
+123,1/1/1900 13:30,2160,Wednesday,N/A,0,N/A,N/A,N/A
+124,1/1/1900 14:00,2160,Wednesday,N/A,0,N/A,N/A,N/A
+125,1/1/1900 14:30,2160,Wednesday,N/A,0,N/A,N/A,N/A
+126,1/1/1900 15:00,2160,Wednesday,N/A,0,N/A,N/A,N/A
+127,1/1/1900 15:30,2160,Wednesday,N/A,0,N/A,N/A,N/A
+128,1/1/1900 16:00,2160,Wednesday,N/A,0,N/A,N/A,N/A
+129,1/1/1900 16:30,2160,Wednesday,N/A,0,N/A,N/A,N/A
+130,1/1/1900 17:00,2160,Wednesday,NSSA( 241)-Intro.RoutingandSwitching,30,Mitel Kuliner,17:00,18:50
+131,1/1/1900 17:30,2160,Wednesday,NSSA( 241)-Intro.RoutingandSwitching,30,Mitel Kuliner,17:00,18:50
+132,1/1/1900 18:00,2160,Wednesday,NSSA( 241)-Intro.RoutingandSwitching,30,Mitel Kuliner,17:00,18:50
+133,1/1/1900 18:30,2160,Wednesday,NSSA( 241)-Intro.RoutingandSwitching,30,Mitel Kuliner,17:00,18:50
+134,1/1/1900 19:00,2160,Wednesday,N/A,0,N/A,N/A,N/A
+135,1/1/1900 19:30,2160,Wednesday,N/A,0,N/A,N/A,N/A
+136,1/1/1900 20:00,2160,Wednesday,N/A,0,N/A,N/A,N/A
+137,1/1/1900 20:30,2160,Wednesday,N/A,0,N/A,N/A,N/A
+138,1/1/1900 21:00,2160,Wednesday,N/A,0,N/A,N/A,N/A
+139,1/1/1900 21:30,2160,Wednesday,,0,,21:30,22:00
+140,1/1/1900 8:00,2320,Friday,,0,,8:00,8:30
+141,1/1/1900 8:30,2320,Friday,N/A,0,N/A,N/A,N/A
+142,1/1/1900 9:00,2320,Friday,N/A,0,N/A,N/A,N/A
+143,1/1/1900 9:30,2320,Friday,N/A,0,N/A,N/A,N/A
+144,1/1/1900 10:00,2320,Friday,NSSA( 221)-Systems Administration I,30,Garret Arcoraci,10:00,11:50
+145,1/1/1900 10:30,2320,Friday,NSSA( 221)-Systems Administration I,30,Garret Arcoraci,10:00,11:50
+146,1/1/1900 11:00,2320,Friday,NSSA( 221)-Systems Administration I,30,Garret Arcoraci,10:00,11:50
+147,1/1/1900 11:30,2320,Friday,NSSA( 221)-Systems Administration I,30,Garret Arcoraci,10:00,11:50
+148,1/1/1900 12:00,2320,Friday,NSSA( 221)-Systems Administration I,18,Jonathan Weissman,12:00,13:50
+149,1/1/1900 12:30,2320,Friday,NSSA( 221)-Systems Administration I,18,Jonathan Weissman,12:00,13:50
+150,1/1/1900 13:00,2320,Friday,NSSA( 221)-Systems Administration I,18,Jonathan Weissman,12:00,13:50
+151,1/1/1900 13:30,2320,Friday,NSSA( 221)-Systems Administration I,18,Jonathan Weissman,12:00,13:50
+152,1/1/1900 14:00,2320,Friday,NSSA( 221)-Systems Administration I,7,John Simonson,14:00,15:50
+153,1/1/1900 14:30,2320,Friday,NSSA( 221)-Systems Administration I,7,John Simonson,14:00,15:50
+154,1/1/1900 15:00,2320,Friday,NSSA( 221)-Systems Administration I,7,John Simonson,14:00,15:50
+155,1/1/1900 15:30,2320,Friday,NSSA( 221)-Systems Administration I,7,John Simonson,14:00,15:50
+156,1/1/1900 16:00,2320,Friday,N/A,0,N/A,N/A,N/A
+157,1/1/1900 16:30,2320,Friday,N/A,0,N/A,N/A,N/A
+158,1/1/1900 17:00,2320,Friday,N/A,0,N/A,N/A,N/A
+159,1/1/1900 17:30,2320,Friday,N/A,0,N/A,N/A,N/A
+160,1/1/1900 18:00,2320,Friday,N/A,0,N/A,N/A,N/A
+161,1/1/1900 18:30,2320,Friday,N/A,0,N/A,N/A,N/A
+162,1/1/1900 19:00,2320,Friday,N/A,0,N/A,N/A,N/A
+163,1/1/1900 19:30,2320,Friday,N/A,0,N/A,N/A,N/A
+164,1/1/1900 20:00,2320,Friday,N/A,0,N/A,N/A,N/A
+165,1/1/1900 20:30,2320,Friday,N/A,0,N/A,N/A,N/A
+166,1/1/1900 21:00,2320,Friday,N/A,0,N/A,N/A,N/A
+167,1/1/1900 21:30,2320,Friday,,0,,21:30,22:00
+168,1/1/1900 8:00,2320,Monday,NSSA( 102)-Computer Systems Concepts,17,Lawrence Hill,8:00,9:50
+169,1/1/1900 8:30,2320,Monday,NSSA( 102)-Computer Systems Concepts,17,Lawrence Hill,8:00,9:50
+170,1/1/1900 9:00,2320,Monday,NSSA( 102)-Computer Systems Concepts,17,Lawrence Hill,8:00,9:50
+171,1/1/1900 9:30,2320,Monday,NSSA( 102)-Computer Systems Concepts,17,Lawrence Hill,8:00,9:50
+172,1/1/1900 10:00,2320,Monday,N/A,0,N/A,N/A,N/A
+173,1/1/1900 10:30,2320,Monday,N/A,0,N/A,N/A,N/A
+174,1/1/1900 11:00,2320,Monday,N/A,0,N/A,N/A,N/A
+175,1/1/1900 11:30,2320,Monday,N/A,0,N/A,N/A,N/A
+176,1/1/1900 12:00,2320,Monday,N/A,0,N/A,N/A,N/A
+177,1/1/1900 12:30,2320,Monday,N/A,0,N/A,N/A,N/A
+178,1/1/1900 13:00,2320,Monday,N/A,0,N/A,N/A,N/A
+179,1/1/1900 13:30,2320,Monday,N/A,0,N/A,N/A,N/A
+180,1/1/1900 14:00,2320,Monday,N/A,0,N/A,N/A,N/A
+181,1/1/1900 14:30,2320,Monday,N/A,0,N/A,N/A,N/A
+182,1/1/1900 15:00,2320,Monday,N/A,0,N/A,N/A,N/A
+183,1/1/1900 15:30,2320,Monday,N/A,0,N/A,N/A,N/A
+184,1/1/1900 16:00,2320,Monday,N/A,0,N/A,N/A,N/A
+185,1/1/1900 16:30,2320,Monday,N/A,0,N/A,N/A,N/A
+186,1/1/1900 17:00,2320,Monday,N/A,0,N/A,N/A,N/A
+187,1/1/1900 17:30,2320,Monday,N/A,0,N/A,N/A,N/A
+188,1/1/1900 18:00,2320,Monday,N/A,0,N/A,N/A,N/A
+189,1/1/1900 18:30,2320,Monday,N/A,0,N/A,N/A,N/A
+190,1/1/1900 19:00,2320,Monday,N/A,0,N/A,N/A,N/A
+191,1/1/1900 19:30,2320,Monday,N/A,0,N/A,N/A,N/A
+192,1/1/1900 20:00,2320,Monday,N/A,0,N/A,N/A,N/A
+193,1/1/1900 20:30,2320,Monday,N/A,0,N/A,N/A,N/A
+194,1/1/1900 21:00,2320,Monday,N/A,0,N/A,N/A,N/A
+195,1/1/1900 21:30,2320,Monday,,0,,21:30,22:00
+196,1/1/1900 8:00,2320,Thursday,,0,,8:00,8:30
+197,1/1/1900 8:30,2320,Thursday,N/A,0,N/A,N/A,N/A
+198,1/1/1900 9:00,2320,Thursday,N/A,0,N/A,N/A,N/A
+199,1/1/1900 9:30,2320,Thursday,NSSA( 244)-Virtualization,31,Garret Arcoraci,9:30,10:45
+200,1/1/1900 10:00,2320,Thursday,NSSA( 244)-Virtualization,31,Garret Arcoraci,9:30,10:45
+201,1/1/1900 10:30,2320,Thursday,NSSA( 244)-Virtualization,31,Garret Arcoraci,9:30,10:45
+202,1/1/1900 11:00,2320,Thursday,N/A,0,N/A,N/A,N/A
+203,1/1/1900 11:30,2320,Thursday,N/A,0,N/A,N/A,N/A
+204,1/1/1900 12:00,2320,Thursday,N/A,0,N/A,N/A,N/A
+205,1/1/1900 12:30,2320,Thursday,N/A,0,N/A,N/A,N/A
+206,1/1/1900 13:00,2320,Thursday,N/A,0,N/A,N/A,N/A
+207,1/1/1900 13:30,2320,Thursday,N/A,0,N/A,N/A,N/A
+208,1/1/1900 14:00,2320,Thursday,N/A,0,N/A,N/A,N/A
+209,1/1/1900 14:30,2320,Thursday,N/A,0,N/A,N/A,N/A
+210,1/1/1900 15:00,2320,Thursday,N/A,0,N/A,N/A,N/A
+211,1/1/1900 15:30,2320,Thursday,N/A,0,N/A,N/A,N/A
+212,1/1/1900 16:00,2320,Thursday,N/A,0,N/A,N/A,N/A
+213,1/1/1900 16:30,2320,Thursday,N/A,0,N/A,N/A,N/A
+214,1/1/1900 17:00,2320,Thursday,N/A,0,N/A,N/A,N/A
+215,1/1/1900 17:30,2320,Thursday,N/A,0,N/A,N/A,N/A
+216,1/1/1900 18:00,2320,Thursday,N/A,0,N/A,N/A,N/A
+217,1/1/1900 18:30,2320,Thursday,N/A,0,N/A,N/A,N/A
+218,1/1/1900 19:00,2320,Thursday,N/A,0,N/A,N/A,N/A
+219,1/1/1900 19:30,2320,Thursday,N/A,0,N/A,N/A,N/A
+220,1/1/1900 20:00,2320,Thursday,N/A,0,N/A,N/A,N/A
+221,1/1/1900 20:30,2320,Thursday,N/A,0,N/A,N/A,N/A
+222,1/1/1900 21:00,2320,Thursday,N/A,0,N/A,N/A,N/A
+223,1/1/1900 21:30,2320,Thursday,,0,,21:30,22:00
+224,1/1/1900 8:00,2320,Tuesday,,0,,8:00,8:30
+225,1/1/1900 8:30,2320,Tuesday,N/A,0,N/A,N/A,N/A
+226,1/1/1900 9:00,2320,Tuesday,N/A,0,N/A,N/A,N/A
+227,1/1/1900 9:30,2320,Tuesday,NSSA( 244)-Virtualization,31,Garret Arcoraci,9:30,10:45
+228,1/1/1900 10:00,2320,Tuesday,NSSA( 244)-Virtualization,31,Garret Arcoraci,9:30,10:45
+229,1/1/1900 10:30,2320,Tuesday,NSSA( 244)-Virtualization,31,Garret Arcoraci,9:30,10:45
+230,1/1/1900 11:00,2320,Tuesday,N/A,0,N/A,N/A,N/A
+231,1/1/1900 11:30,2320,Tuesday,N/A,0,N/A,N/A,N/A
+232,1/1/1900 12:00,2320,Tuesday,N/A,0,N/A,N/A,N/A
+233,1/1/1900 12:30,2320,Tuesday,N/A,0,N/A,N/A,N/A
+234,1/1/1900 13:00,2320,Tuesday,N/A,0,N/A,N/A,N/A
+235,1/1/1900 13:30,2320,Tuesday,N/A,0,N/A,N/A,N/A
+236,1/1/1900 14:00,2320,Tuesday,N/A,0,N/A,N/A,N/A
+237,1/1/1900 14:30,2320,Tuesday,N/A,0,N/A,N/A,N/A
+238,1/1/1900 15:00,2320,Tuesday,N/A,0,N/A,N/A,N/A
+239,1/1/1900 15:30,2320,Tuesday,N/A,0,N/A,N/A,N/A
+240,1/1/1900 16:00,2320,Tuesday,N/A,0,N/A,N/A,N/A
+241,1/1/1900 16:30,2320,Tuesday,N/A,0,N/A,N/A,N/A
+242,1/1/1900 17:00,2320,Tuesday,N/A,0,N/A,N/A,N/A
+243,1/1/1900 17:30,2320,Tuesday,N/A,0,N/A,N/A,N/A
+244,1/1/1900 18:00,2320,Tuesday,N/A,0,N/A,N/A,N/A
+245,1/1/1900 18:30,2320,Tuesday,N/A,0,N/A,N/A,N/A
+246,1/1/1900 19:00,2320,Tuesday,N/A,0,N/A,N/A,N/A
+247,1/1/1900 19:30,2320,Tuesday,N/A,0,N/A,N/A,N/A
+248,1/1/1900 20:00,2320,Tuesday,N/A,0,N/A,N/A,N/A
+249,1/1/1900 20:30,2320,Tuesday,N/A,0,N/A,N/A,N/A
+250,1/1/1900 21:00,2320,Tuesday,N/A,0,N/A,N/A,N/A
+251,1/1/1900 21:30,2320,Tuesday,,0,,21:30,22:00
+252,1/1/1900 8:00,2320,Wednesday,NSSA( 245)-Network Services,7,Sylvia Perez-Hardy,8:00,9:50
+253,1/1/1900 8:30,2320,Wednesday,NSSA( 245)-Network Services,7,Sylvia Perez-Hardy,8:00,9:50
+254,1/1/1900 9:00,2320,Wednesday,NSSA( 245)-Network Services,7,Sylvia Perez-Hardy,8:00,9:50
+255,1/1/1900 9:30,2320,Wednesday,NSSA( 245)-Network Services,7,Sylvia Perez-Hardy,8:00,9:50
+256,1/1/1900 10:00,2320,Wednesday,NSSA( 245)-Network Services,31,Jonathan Weissman,10:00,11:50
+257,1/1/1900 10:30,2320,Wednesday,NSSA( 245)-Network Services,31,Jonathan Weissman,10:00,11:50
+258,1/1/1900 11:00,2320,Wednesday,NSSA( 245)-Network Services,31,Jonathan Weissman,10:00,11:50
+259,1/1/1900 11:30,2320,Wednesday,NSSA( 245)-Network Services,31,Jonathan Weissman,10:00,11:50
+260,1/1/1900 12:00,2320,Wednesday,NSSA( 245)-Network Services,28,Mitel Kuliner,12:00,13:50
+261,1/1/1900 12:30,2320,Wednesday,NSSA( 245)-Network Services,28,Mitel Kuliner,12:00,13:50
+262,1/1/1900 13:00,2320,Wednesday,NSSA( 245)-Network Services,28,Mitel Kuliner,12:00,13:50
+263,1/1/1900 13:30,2320,Wednesday,NSSA( 245)-Network Services,28,Mitel Kuliner,12:00,13:50
+264,1/1/1900 14:00,2320,Wednesday,NSSA( 245)-Network Services,20,Sylvia Perez-Hardy,14:00,15:50
+265,1/1/1900 14:30,2320,Wednesday,NSSA( 245)-Network Services,20,Sylvia Perez-Hardy,14:00,15:50
+266,1/1/1900 15:00,2320,Wednesday,NSSA( 245)-Network Services,20,Sylvia Perez-Hardy,14:00,15:50
+267,1/1/1900 15:30,2320,Wednesday,NSSA( 245)-Network Services,20,Sylvia Perez-Hardy,14:00,15:50
+268,1/1/1900 16:00,2320,Wednesday,N/A,0,N/A,N/A,N/A
+269,1/1/1900 16:30,2320,Wednesday,N/A,0,N/A,N/A,N/A
+270,1/1/1900 17:00,2320,Wednesday,NSSA( 322)-Systems Administration II,16,Garret Arcoraci,17:00,18:50
+271,1/1/1900 17:30,2320,Wednesday,NSSA( 322)-Systems Administration II,16,Garret Arcoraci,17:00,18:50
+272,1/1/1900 18:00,2320,Wednesday,NSSA( 322)-Systems Administration II,16,Garret Arcoraci,17:00,18:50
+273,1/1/1900 18:30,2320,Wednesday,NSSA( 322)-Systems Administration II,16,Garret Arcoraci,17:00,18:50
+274,1/1/1900 19:00,2320,Wednesday,N/A,0,N/A,N/A,N/A
+275,1/1/1900 19:30,2320,Wednesday,N/A,0,N/A,N/A,N/A
+276,1/1/1900 20:00,2320,Wednesday,N/A,0,N/A,N/A,N/A
+277,1/1/1900 20:30,2320,Wednesday,N/A,0,N/A,N/A,N/A
+278,1/1/1900 21:00,2320,Wednesday,N/A,0,N/A,N/A,N/A
+279,1/1/1900 21:30,2320,Wednesday,,0,,21:30,22:00
+280,1/1/1900 8:00,2520,Friday,,0,,8:00,8:30
+281,1/1/1900 8:30,2520,Friday,N/A,0,N/A,N/A,N/A
+282,1/1/1900 9:00,2520,Friday,N/A,0,N/A,N/A,N/A
+283,1/1/1900 9:30,2520,Friday,N/A,0,N/A,N/A,N/A
+284,1/1/1900 10:00,2520,Friday,ISTE( 464)-AccessibilityThroughTheLifespa,8,Elissa Weeden,10:00,10:50
+285,1/1/1900 10:30,2520,Friday,ISTE( 464)-AccessibilityThroughTheLifespa,8,Elissa Weeden,10:00,10:50
+286,1/1/1900 11:00,2520,Friday,ISTE( 438)-ContemporaryDatabases,27,Edward Holden,11:00,11:50
+287,1/1/1900 11:30,2520,Friday,ISTE( 438)-ContemporaryDatabases,27,Edward Holden,11:00,11:50
+288,1/1/1900 12:00,2520,Friday,N/A,0,N/A,N/A,N/A
+289,1/1/1900 12:30,2520,Friday,N/A,0,N/A,N/A,N/A
+290,1/1/1900 13:00,2520,Friday,N/A,0,N/A,N/A,N/A
+291,1/1/1900 13:30,2520,Friday,N/A,0,N/A,N/A,N/A
+292,1/1/1900 14:00,2520,Friday,N/A,0,N/A,N/A,N/A
+293,1/1/1900 14:30,2520,Friday,N/A,0,N/A,N/A,N/A
+294,1/1/1900 15:00,2520,Friday,N/A,0,N/A,N/A,N/A
+295,1/1/1900 15:30,2520,Friday,N/A,0,N/A,N/A,N/A
+296,1/1/1900 16:00,2520,Friday,N/A,0,N/A,N/A,N/A
+297,1/1/1900 16:30,2520,Friday,N/A,0,N/A,N/A,N/A
+298,1/1/1900 17:00,2520,Friday,N/A,0,N/A,N/A,N/A
+299,1/1/1900 17:30,2520,Friday,N/A,0,N/A,N/A,N/A
+300,1/1/1900 18:00,2520,Friday,N/A,0,N/A,N/A,N/A
+301,1/1/1900 18:30,2520,Friday,N/A,0,N/A,N/A,N/A
+302,1/1/1900 19:00,2520,Friday,N/A,0,N/A,N/A,N/A
+303,1/1/1900 19:30,2520,Friday,N/A,0,N/A,N/A,N/A
+304,1/1/1900 20:00,2520,Friday,N/A,0,N/A,N/A,N/A
+305,1/1/1900 20:30,2520,Friday,N/A,0,N/A,N/A,N/A
+306,1/1/1900 21:00,2520,Friday,N/A,0,N/A,N/A,N/A
+307,1/1/1900 21:30,2520,Friday,,0,,21:30,22:00
+308,1/1/1900 8:00,2520,Monday,,0,,8:00,8:30
+309,1/1/1900 8:30,2520,Monday,N/A,0,N/A,N/A,N/A
+310,1/1/1900 9:00,2520,Monday,N/A,0,N/A,N/A,N/A
+311,1/1/1900 9:30,2520,Monday,N/A,0,N/A,N/A,N/A
+312,1/1/1900 10:00,2520,Monday,ISTE( 464)-AccessibilityThroughTheLifespa,8,Elissa Weeden,10:00,10:50
+313,1/1/1900 10:30,2520,Monday,ISTE( 464)-AccessibilityThroughTheLifespa,8,Elissa Weeden,10:00,10:50
+314,1/1/1900 11:00,2520,Monday,ISTE( 438)-ContemporaryDatabases,27,Edward Holden,11:00,11:50
+315,1/1/1900 11:30,2520,Monday,ISTE( 438)-ContemporaryDatabases,27,Edward Holden,11:00,11:50
+316,1/1/1900 12:00,2520,Monday,N/A,0,N/A,N/A,N/A
+317,1/1/1900 12:30,2520,Monday,N/A,0,N/A,N/A,N/A
+318,1/1/1900 13:00,2520,Monday,N/A,0,N/A,N/A,N/A
+319,1/1/1900 13:30,2520,Monday,N/A,0,N/A,N/A,N/A
+320,1/1/1900 14:00,2520,Monday,N/A,0,N/A,N/A,N/A
+321,1/1/1900 14:30,2520,Monday,N/A,0,N/A,N/A,N/A
+322,1/1/1900 15:00,2520,Monday,N/A,0,N/A,N/A,N/A
+323,1/1/1900 15:30,2520,Monday,N/A,0,N/A,N/A,N/A
+324,1/1/1900 16:00,2520,Monday,N/A,0,N/A,N/A,N/A
+325,1/1/1900 16:30,2520,Monday,N/A,0,N/A,N/A,N/A
+326,1/1/1900 17:00,2520,Monday,N/A,0,N/A,N/A,N/A
+327,1/1/1900 17:30,2520,Monday,N/A,0,N/A,N/A,N/A
+328,1/1/1900 18:00,2520,Monday,ISTE( 120)-CompProblemSolvingInfoDomainI,27,Tanweer Alam,18:00,20:50
+329,1/1/1900 18:30,2520,Monday,ISTE( 120)-CompProblemSolvingInfoDomainI,27,Tanweer Alam,18:00,20:50
+330,1/1/1900 19:00,2520,Monday,ISTE( 120)-CompProblemSolvingInfoDomainI,27,Tanweer Alam,18:00,20:50
+331,1/1/1900 19:30,2520,Monday,ISTE( 120)-CompProblemSolvingInfoDomainI,27,Tanweer Alam,18:00,20:50
+332,1/1/1900 20:00,2520,Monday,ISTE( 120)-CompProblemSolvingInfoDomainI,27,Tanweer Alam,18:00,20:50
+333,1/1/1900 20:30,2520,Monday,ISTE( 120)-CompProblemSolvingInfoDomainI,27,Tanweer Alam,18:00,20:50
+334,1/1/1900 21:00,2520,Monday,N/A,0,N/A,N/A,N/A
+335,1/1/1900 21:30,2520,Monday,,0,,21:30,22:00
+336,1/1/1900 8:00,2520,Thursday,,0,,8:00,8:30
+337,1/1/1900 8:30,2520,Thursday,N/A,0,N/A,N/A,N/A
+338,1/1/1900 9:00,2520,Thursday,N/A,0,N/A,N/A,N/A
+339,1/1/1900 9:30,2520,Thursday,ISTE( 730)-Foundations of IoT,11,Tae Oh,9:30,10:45
+340,1/1/1900 10:00,2520,Thursday,ISTE( 730)-Foundations of IoT,11,Tae Oh,9:30,10:45
+341,1/1/1900 10:30,2520,Thursday,ISTE( 730)-Foundations of IoT,11,Tae Oh,9:30,10:45
+342,1/1/1900 11:00,2520,Thursday,ISTE( 222)-CompProbSolvingInfoDomainIII,22,Erik Golen,11:00,12:15
+343,1/1/1900 11:30,2520,Thursday,ISTE( 222)-CompProbSolvingInfoDomainIII,22,Erik Golen,11:00,12:15
+344,1/1/1900 12:00,2520,Thursday,ISTE( 222)-CompProbSolvingInfoDomainIII,22,Erik Golen,11:00,12:15
+345,1/1/1900 12:30,2520,Thursday,N/A,0,N/A,N/A,N/A
+346,1/1/1900 13:00,2520,Thursday,N/A,0,N/A,N/A,N/A
+347,1/1/1900 13:30,2520,Thursday,N/A,0,N/A,N/A,N/A
+348,1/1/1900 14:00,2520,Thursday,ISTE( 610)-KnowledgeRepresentationTech,23,Edward Holden,14:00,15:15
+349,1/1/1900 14:30,2520,Thursday,ISTE( 610)-KnowledgeRepresentationTech,23,Edward Holden,14:00,15:15
+350,1/1/1900 15:00,2520,Thursday,ISTE( 610)-KnowledgeRepresentationTech,23,Edward Holden,14:00,15:15
+351,1/1/1900 15:30,2520,Thursday,N/A,0,N/A,N/A,N/A
+352,1/1/1900 16:00,2520,Thursday,N/A,0,N/A,N/A,N/A
+353,1/1/1900 16:30,2520,Thursday,N/A,0,N/A,N/A,N/A
+354,1/1/1900 17:00,2520,Thursday,N/A,0,N/A,N/A,N/A
+355,1/1/1900 17:30,2520,Thursday,N/A,0,N/A,N/A,N/A
+356,1/1/1900 18:00,2520,Thursday,ISTE( 422)-App Develop Practices,29,Edward Griebel,18:00,20:50
+357,1/1/1900 18:30,2520,Thursday,ISTE( 422)-App Develop Practices,29,Edward Griebel,18:00,20:50
+358,1/1/1900 19:00,2520,Thursday,ISTE( 422)-App Develop Practices,29,Edward Griebel,18:00,20:50
+359,1/1/1900 19:30,2520,Thursday,ISTE( 422)-App Develop Practices,29,Edward Griebel,18:00,20:50
+360,1/1/1900 20:00,2520,Thursday,ISTE( 422)-App Develop Practices,29,Edward Griebel,18:00,20:50
+361,1/1/1900 20:30,2520,Thursday,ISTE( 422)-App Develop Practices,29,Edward Griebel,18:00,20:50
+362,1/1/1900 21:00,2520,Thursday,N/A,0,N/A,N/A,N/A
+363,1/1/1900 21:30,2520,Thursday,,0,,21:30,22:00
+364,1/1/1900 8:00,2520,Tuesday,,0,,8:00,8:30
+365,1/1/1900 8:30,2520,Tuesday,N/A,0,N/A,N/A,N/A
+366,1/1/1900 9:00,2520,Tuesday,N/A,0,N/A,N/A,N/A
+367,1/1/1900 9:30,2520,Tuesday,ISTE( 730)-Foundations of IoT,11,Tae Oh,9:30,10:45
+368,1/1/1900 10:00,2520,Tuesday,ISTE( 730)-Foundations of IoT,11,Tae Oh,9:30,10:45
+369,1/1/1900 10:30,2520,Tuesday,ISTE( 730)-Foundations of IoT,11,Tae Oh,9:30,10:45
+370,1/1/1900 11:00,2520,Tuesday,ISTE( 222)-CompProbSolvingInfoDomainIII,22,Erik Golen,11:00,12:15
+371,1/1/1900 11:30,2520,Tuesday,ISTE( 222)-CompProbSolvingInfoDomainIII,22,Erik Golen,11:00,12:15
+372,1/1/1900 12:00,2520,Tuesday,ISTE( 222)-CompProbSolvingInfoDomainIII,22,Erik Golen,11:00,12:15
+373,1/1/1900 12:30,2520,Tuesday,N/A,0,N/A,N/A,N/A
+374,1/1/1900 13:00,2520,Tuesday,N/A,0,N/A,N/A,N/A
+375,1/1/1900 13:30,2520,Tuesday,N/A,0,N/A,N/A,N/A
+376,1/1/1900 14:00,2520,Tuesday,ISTE( 610)-KnowledgeRepresentationTech,23,Edward Holden,14:00,15:15
+377,1/1/1900 14:30,2520,Tuesday,ISTE( 610)-KnowledgeRepresentationTech,23,Edward Holden,14:00,15:15
+378,1/1/1900 15:00,2520,Tuesday,ISTE( 610)-KnowledgeRepresentationTech,23,Edward Holden,14:00,15:15
+379,1/1/1900 15:30,2520,Tuesday,N/A,0,N/A,N/A,N/A
+380,1/1/1900 16:00,2520,Tuesday,N/A,0,N/A,N/A,N/A
+381,1/1/1900 16:30,2520,Tuesday,N/A,0,N/A,N/A,N/A
+382,1/1/1900 17:00,2520,Tuesday,ISTE( 782)-VisualAnalytics,25,Erik Golen,17:00,19:50
+383,1/1/1900 17:30,2520,Tuesday,ISTE( 782)-VisualAnalytics,25,Erik Golen,17:00,19:50
+384,1/1/1900 18:00,2520,Tuesday,ISTE( 782)-VisualAnalytics,25,Erik Golen,17:00,19:50
+385,1/1/1900 18:30,2520,Tuesday,ISTE( 782)-VisualAnalytics,25,Erik Golen,17:00,19:50
+386,1/1/1900 19:00,2520,Tuesday,ISTE( 782)-VisualAnalytics,25,Erik Golen,17:00,19:50
+387,1/1/1900 19:30,2520,Tuesday,ISTE( 782)-VisualAnalytics,25,Erik Golen,17:00,19:50
+388,1/1/1900 20:00,2520,Tuesday,N/A,0,N/A,N/A,N/A
+389,1/1/1900 20:30,2520,Tuesday,N/A,0,N/A,N/A,N/A
+390,1/1/1900 21:00,2520,Tuesday,N/A,0,N/A,N/A,N/A
+391,1/1/1900 21:30,2520,Tuesday,,0,,21:30,22:00
+392,1/1/1900 8:00,2520,Wednesday,,0,,8:00,8:30
+393,1/1/1900 8:30,2520,Wednesday,N/A,0,N/A,N/A,N/A
+394,1/1/1900 9:00,2520,Wednesday,N/A,0,N/A,N/A,N/A
+395,1/1/1900 9:30,2520,Wednesday,N/A,0,N/A,N/A,N/A
+396,1/1/1900 10:00,2520,Wednesday,ISTE( 464)-AccessibilityThroughTheLifespa,8,Elissa Weeden,10:00,10:50
+397,1/1/1900 10:30,2520,Wednesday,ISTE( 464)-AccessibilityThroughTheLifespa,8,Elissa Weeden,10:00,10:50
+398,1/1/1900 11:00,2520,Wednesday,ISTE( 438)-ContemporaryDatabases,27,Edward Holden,11:00,11:50
+399,1/1/1900 11:30,2520,Wednesday,ISTE( 438)-ContemporaryDatabases,27,Edward Holden,11:00,11:50
+400,1/1/1900 12:00,2520,Wednesday,N/A,0,N/A,N/A,N/A
+401,1/1/1900 12:30,2520,Wednesday,N/A,0,N/A,N/A,N/A
+402,1/1/1900 13:00,2520,Wednesday,N/A,0,N/A,N/A,N/A
+403,1/1/1900 13:30,2520,Wednesday,N/A,0,N/A,N/A,N/A
+404,1/1/1900 14:00,2520,Wednesday,N/A,0,N/A,N/A,N/A
+405,1/1/1900 14:30,2520,Wednesday,N/A,0,N/A,N/A,N/A
+406,1/1/1900 15:00,2520,Wednesday,N/A,0,N/A,N/A,N/A
+407,1/1/1900 15:30,2520,Wednesday,N/A,0,N/A,N/A,N/A
+408,1/1/1900 16:00,2520,Wednesday,N/A,0,N/A,N/A,N/A
+409,1/1/1900 16:30,2520,Wednesday,N/A,0,N/A,N/A,N/A
+410,1/1/1900 17:00,2520,Wednesday,N/A,0,N/A,N/A,N/A
+411,1/1/1900 17:30,2520,Wednesday,N/A,0,N/A,N/A,N/A
+412,1/1/1900 18:00,2520,Wednesday,ISTE( 120)-CompProblemSolvingInfoDomainI,27,Tanweer Alam,18:00,20:50
+413,1/1/1900 18:30,2520,Wednesday,ISTE( 120)-CompProblemSolvingInfoDomainI,27,Tanweer Alam,18:00,20:50
+414,1/1/1900 19:00,2520,Wednesday,ISTE( 120)-CompProblemSolvingInfoDomainI,27,Tanweer Alam,18:00,20:50
+415,1/1/1900 19:30,2520,Wednesday,ISTE( 120)-CompProblemSolvingInfoDomainI,27,Tanweer Alam,18:00,20:50
+416,1/1/1900 20:00,2520,Wednesday,ISTE( 120)-CompProblemSolvingInfoDomainI,27,Tanweer Alam,18:00,20:50
+417,1/1/1900 20:30,2520,Wednesday,ISTE( 120)-CompProblemSolvingInfoDomainI,27,Tanweer Alam,18:00,20:50
+418,1/1/1900 21:00,2520,Wednesday,N/A,0,N/A,N/A,N/A
+419,1/1/1900 21:30,2520,Wednesday,,0,,21:30,22:00
+420,1/1/1900 8:00,2620,Friday,,0,,8:00,8:30
+421,1/1/1900 8:30,2620,Friday,N/A,0,N/A,N/A,N/A
+422,1/1/1900 9:00,2620,Friday,ISTE( 330)-DatabaseConnectivityAndAccess,31,Stephen Zilora,9:00,9:50
+423,1/1/1900 9:30,2620,Friday,ISTE( 330)-DatabaseConnectivityAndAccess,31,Stephen Zilora,9:00,9:50
+424,1/1/1900 10:00,2620,Friday,N/A,0,N/A,N/A,N/A
+425,1/1/1900 10:30,2620,Friday,N/A,0,N/A,N/A,N/A
+426,1/1/1900 11:00,2620,Friday,ISTE( 430)-InformationRequirementsModelin,34,Elissa Weeden,11:00,11:50
+427,1/1/1900 11:30,2620,Friday,ISTE( 430)-InformationRequirementsModelin,34,Elissa Weeden,11:00,11:50
+428,1/1/1900 12:00,2620,Friday,N/A,0,N/A,N/A,N/A
+429,1/1/1900 12:30,2620,Friday,N/A,0,N/A,N/A,N/A
+430,1/1/1900 13:00,2620,Friday,ISTE( 600)-AnalyticalThinking,17,Jai Kang,13:00,13:50
+431,1/1/1900 13:30,2620,Friday,ISTE( 600)-AnalyticalThinking,17,Jai Kang,13:00,13:50
+432,1/1/1900 14:00,2620,Friday,ISTE( 612)-Knowledge Process Technologies,20,Jai Kang,14:00,14:50
+433,1/1/1900 14:30,2620,Friday,ISTE( 612)-Knowledge Process Technologies,20,Jai Kang,14:00,14:50
+434,1/1/1900 15:00,2620,Friday,N/A,0,N/A,N/A,N/A
+435,1/1/1900 15:30,2620,Friday,N/A,0,N/A,N/A,N/A
+436,1/1/1900 16:00,2620,Friday,N/A,0,N/A,N/A,N/A
+437,1/1/1900 16:30,2620,Friday,N/A,0,N/A,N/A,N/A
+438,1/1/1900 17:00,2620,Friday,N/A,0,N/A,N/A,N/A
+439,1/1/1900 17:30,2620,Friday,N/A,0,N/A,N/A,N/A
+440,1/1/1900 18:00,2620,Friday,N/A,0,N/A,N/A,N/A
+441,1/1/1900 18:30,2620,Friday,N/A,0,N/A,N/A,N/A
+442,1/1/1900 19:00,2620,Friday,N/A,0,N/A,N/A,N/A
+443,1/1/1900 19:30,2620,Friday,N/A,0,N/A,N/A,N/A
+444,1/1/1900 20:00,2620,Friday,N/A,0,N/A,N/A,N/A
+445,1/1/1900 20:30,2620,Friday,N/A,0,N/A,N/A,N/A
+446,1/1/1900 21:00,2620,Friday,N/A,0,N/A,N/A,N/A
+447,1/1/1900 21:30,2620,Friday,,0,,21:30,22:00
+448,1/1/1900 8:00,2620,Monday,,0,,8:00,8:30
+449,1/1/1900 8:30,2620,Monday,N/A,0,N/A,N/A,N/A
+450,1/1/1900 9:00,2620,Monday,ISTE( 330)-DatabaseConnectivityAndAccess,31,Stephen Zilora,9:00,9:50
+451,1/1/1900 9:30,2620,Monday,ISTE( 330)-DatabaseConnectivityAndAccess,31,Stephen Zilora,9:00,9:50
+452,1/1/1900 10:00,2620,Monday,N/A,0,N/A,N/A,N/A
+453,1/1/1900 10:30,2620,Monday,N/A,0,N/A,N/A,N/A
+454,1/1/1900 11:00,2620,Monday,ISTE( 430)-InformationRequirementsModelin,34,Elissa Weeden,11:00,11:50
+455,1/1/1900 11:30,2620,Monday,ISTE( 430)-InformationRequirementsModelin,34,Elissa Weeden,11:00,11:50
+456,1/1/1900 12:00,2620,Monday,N/A,0,N/A,N/A,N/A
+457,1/1/1900 12:30,2620,Monday,N/A,0,N/A,N/A,N/A
+458,1/1/1900 13:00,2620,Monday,ISTE( 600)-AnalyticalThinking,17,Jai Kang,13:00,13:50
+459,1/1/1900 13:30,2620,Monday,ISTE( 600)-AnalyticalThinking,17,Jai Kang,13:00,13:50
+460,1/1/1900 14:00,2620,Monday,ISTE( 612)-Knowledge Process Technologies,20,Jai Kang,14:00,14:50
+461,1/1/1900 14:30,2620,Monday,ISTE( 612)-Knowledge Process Technologies,20,Jai Kang,14:00,14:50
+462,1/1/1900 15:00,2620,Monday,N/A,0,N/A,N/A,N/A
+463,1/1/1900 15:30,2620,Monday,N/A,0,N/A,N/A,N/A
+464,1/1/1900 16:00,2620,Monday,N/A,0,N/A,N/A,N/A
+465,1/1/1900 16:30,2620,Monday,N/A,0,N/A,N/A,N/A
+466,1/1/1900 17:00,2620,Monday,ISTE( 436)-DatabaseManagementAndAccess,17,David Patric,17:00,18:15
+467,1/1/1900 17:30,2620,Monday,ISTE( 436)-DatabaseManagementAndAccess,17,David Patric,17:00,18:15
+468,1/1/1900 18:00,2620,Monday,ISTE( 436)-DatabaseManagementAndAccess,17,David Patric,17:00,18:15
+469,1/1/1900 18:30,2620,Monday,N/A,0,N/A,N/A,N/A
+470,1/1/1900 19:00,2620,Monday,N/A,0,N/A,N/A,N/A
+471,1/1/1900 19:30,2620,Monday,N/A,0,N/A,N/A,N/A
+472,1/1/1900 20:00,2620,Monday,N/A,0,N/A,N/A,N/A
+473,1/1/1900 20:30,2620,Monday,N/A,0,N/A,N/A,N/A
+474,1/1/1900 21:00,2620,Monday,N/A,0,N/A,N/A,N/A
+475,1/1/1900 21:30,2620,Monday,,0,,21:30,22:00
+476,1/1/1900 8:00,2620,Thursday,,0,,8:00,8:30
+477,1/1/1900 8:30,2620,Thursday,N/A,0,N/A,N/A,N/A
+478,1/1/1900 9:00,2620,Thursday,N/A,0,N/A,N/A,N/A
+479,1/1/1900 9:30,2620,Thursday,ISTE( 240)-Web&MobileII,29,John-Paul Takats,9:30,10:45
+480,1/1/1900 10:00,2620,Thursday,ISTE( 240)-Web&MobileII,29,John-Paul Takats,9:30,10:45
+481,1/1/1900 10:30,2620,Thursday,ISTE( 240)-Web&MobileII,29,John-Paul Takats,9:30,10:45
+482,1/1/1900 11:00,2620,Thursday,N/A,0,N/A,N/A,N/A
+483,1/1/1900 11:30,2620,Thursday,N/A,0,N/A,N/A,N/A
+484,1/1/1900 12:00,2620,Thursday,N/A,0,N/A,N/A,N/A
+485,1/1/1900 12:30,2620,Thursday,N/A,0,N/A,N/A,N/A
+486,1/1/1900 13:00,2620,Thursday,N/A,0,N/A,N/A,N/A
+487,1/1/1900 13:30,2620,Thursday,N/A,0,N/A,N/A,N/A
+488,1/1/1900 14:00,2620,Thursday,ISTE( 240)-Web&MobileII,29,Jim Habermas,14:00,15:15
+489,1/1/1900 14:30,2620,Thursday,ISTE( 240)-Web&MobileII,29,Jim Habermas,14:00,15:15
+490,1/1/1900 15:00,2620,Thursday,ISTE( 240)-Web&MobileII,29,Jim Habermas,14:00,15:15
+491,1/1/1900 15:30,2620,Thursday,N/A,0,N/A,N/A,N/A
+492,1/1/1900 16:00,2620,Thursday,N/A,0,N/A,N/A,N/A
+493,1/1/1900 16:30,2620,Thursday,N/A,0,N/A,N/A,N/A
+494,1/1/1900 17:00,2620,Thursday,N/A,0,N/A,N/A,N/A
+495,1/1/1900 17:30,2620,Thursday,N/A,0,N/A,N/A,N/A
+496,1/1/1900 18:00,2620,Thursday,ISTE( 120)-CompProblemSolvingInfoDomainI,16,John Ghidiu,18:00,20:50
+497,1/1/1900 18:30,2620,Thursday,ISTE( 120)-CompProblemSolvingInfoDomainI,16,John Ghidiu,18:00,20:50
+498,1/1/1900 19:00,2620,Thursday,ISTE( 120)-CompProblemSolvingInfoDomainI,16,John Ghidiu,18:00,20:50
+499,1/1/1900 19:30,2620,Thursday,ISTE( 120)-CompProblemSolvingInfoDomainI,16,John Ghidiu,18:00,20:50
+500,1/1/1900 20:00,2620,Thursday,ISTE( 120)-CompProblemSolvingInfoDomainI,16,John Ghidiu,18:00,20:50
+501,1/1/1900 20:30,2620,Thursday,ISTE( 120)-CompProblemSolvingInfoDomainI,16,John Ghidiu,18:00,20:50
+502,1/1/1900 21:00,2620,Thursday,N/A,0,N/A,N/A,N/A
+503,1/1/1900 21:30,2620,Thursday,,0,,21:30,22:00
+504,1/1/1900 8:00,2620,Tuesday,,0,,8:00,8:30
+505,1/1/1900 8:30,2620,Tuesday,N/A,0,N/A,N/A,N/A
+506,1/1/1900 9:00,2620,Tuesday,N/A,0,N/A,N/A,N/A
+507,1/1/1900 9:30,2620,Tuesday,ISTE( 240)-Web&MobileII,29,John-Paul Takats,9:30,10:45
+508,1/1/1900 10:00,2620,Tuesday,ISTE( 240)-Web&MobileII,29,John-Paul Takats,9:30,10:45
+509,1/1/1900 10:30,2620,Tuesday,ISTE( 240)-Web&MobileII,29,John-Paul Takats,9:30,10:45
+510,1/1/1900 11:00,2620,Tuesday,N/A,0,N/A,N/A,N/A
+511,1/1/1900 11:30,2620,Tuesday,N/A,0,N/A,N/A,N/A
+512,1/1/1900 12:00,2620,Tuesday,N/A,0,N/A,N/A,N/A
+513,1/1/1900 12:30,2620,Tuesday,N/A,0,N/A,N/A,N/A
+514,1/1/1900 13:00,2620,Tuesday,N/A,0,N/A,N/A,N/A
+515,1/1/1900 13:30,2620,Tuesday,N/A,0,N/A,N/A,N/A
+516,1/1/1900 14:00,2620,Tuesday,ISTE( 240)-Web&MobileII,29,Jim Habermas,14:00,15:15
+517,1/1/1900 14:30,2620,Tuesday,ISTE( 240)-Web&MobileII,29,Jim Habermas,14:00,15:15
+518,1/1/1900 15:00,2620,Tuesday,ISTE( 240)-Web&MobileII,29,Jim Habermas,14:00,15:15
+519,1/1/1900 15:30,2620,Tuesday,N/A,0,N/A,N/A,N/A
+520,1/1/1900 16:00,2620,Tuesday,N/A,0,N/A,N/A,N/A
+521,1/1/1900 16:30,2620,Tuesday,N/A,0,N/A,N/A,N/A
+522,1/1/1900 17:00,2620,Tuesday,N/A,0,N/A,N/A,N/A
+523,1/1/1900 17:30,2620,Tuesday,N/A,0,N/A,N/A,N/A
+524,1/1/1900 18:00,2620,Tuesday,ISTE( 120)-CompProblemSolvingInfoDomainI,16,John Ghidiu,18:00,20:50
+525,1/1/1900 18:30,2620,Tuesday,ISTE( 120)-CompProblemSolvingInfoDomainI,16,John Ghidiu,18:00,20:50
+526,1/1/1900 19:00,2620,Tuesday,ISTE( 120)-CompProblemSolvingInfoDomainI,16,John Ghidiu,18:00,20:50
+527,1/1/1900 19:30,2620,Tuesday,ISTE( 120)-CompProblemSolvingInfoDomainI,16,John Ghidiu,18:00,20:50
+528,1/1/1900 20:00,2620,Tuesday,ISTE( 120)-CompProblemSolvingInfoDomainI,16,John Ghidiu,18:00,20:50
+529,1/1/1900 20:30,2620,Tuesday,ISTE( 120)-CompProblemSolvingInfoDomainI,16,John Ghidiu,18:00,20:50
+530,1/1/1900 21:00,2620,Tuesday,N/A,0,N/A,N/A,N/A
+531,1/1/1900 21:30,2620,Tuesday,,0,,21:30,22:00
+532,1/1/1900 8:00,2620,Wednesday,,0,,8:00,8:30
+533,1/1/1900 8:30,2620,Wednesday,N/A,0,N/A,N/A,N/A
+534,1/1/1900 9:00,2620,Wednesday,ISTE( 330)-DatabaseConnectivityAndAccess,31,Stephen Zilora,9:00,9:50
+535,1/1/1900 9:30,2620,Wednesday,ISTE( 330)-DatabaseConnectivityAndAccess,31,Stephen Zilora,9:00,9:50
+536,1/1/1900 10:00,2620,Wednesday,N/A,0,N/A,N/A,N/A
+537,1/1/1900 10:30,2620,Wednesday,N/A,0,N/A,N/A,N/A
+538,1/1/1900 11:00,2620,Wednesday,ISTE( 430)-InformationRequirementsModelin,34,Elissa Weeden,11:00,11:50
+539,1/1/1900 11:30,2620,Wednesday,ISTE( 430)-InformationRequirementsModelin,34,Elissa Weeden,11:00,11:50
+540,1/1/1900 12:00,2620,Wednesday,N/A,0,N/A,N/A,N/A
+541,1/1/1900 12:30,2620,Wednesday,N/A,0,N/A,N/A,N/A
+542,1/1/1900 13:00,2620,Wednesday,ISTE( 600)-AnalyticalThinking,17,Jai Kang,13:00,13:50
+543,1/1/1900 13:30,2620,Wednesday,ISTE( 600)-AnalyticalThinking,17,Jai Kang,13:00,13:50
+544,1/1/1900 14:00,2620,Wednesday,ISTE( 612)-Knowledge Process Technologies,20,Jai Kang,14:00,14:50
+545,1/1/1900 14:30,2620,Wednesday,ISTE( 612)-Knowledge Process Technologies,20,Jai Kang,14:00,14:50
+546,1/1/1900 15:00,2620,Wednesday,N/A,0,N/A,N/A,N/A
+547,1/1/1900 15:30,2620,Wednesday,N/A,0,N/A,N/A,N/A
+548,1/1/1900 16:00,2620,Wednesday,N/A,0,N/A,N/A,N/A
+549,1/1/1900 16:30,2620,Wednesday,N/A,0,N/A,N/A,N/A
+550,1/1/1900 17:00,2620,Wednesday,ISTE( 436)-DatabaseManagementAndAccess,17,David Patric,17:00,18:15
+551,1/1/1900 17:30,2620,Wednesday,ISTE( 436)-DatabaseManagementAndAccess,17,David Patric,17:00,18:15
+552,1/1/1900 18:00,2620,Wednesday,ISTE( 436)-DatabaseManagementAndAccess,17,David Patric,17:00,18:15
+553,1/1/1900 18:30,2620,Wednesday,N/A,0,N/A,N/A,N/A
+554,1/1/1900 19:00,2620,Wednesday,N/A,0,N/A,N/A,N/A
+555,1/1/1900 19:30,2620,Wednesday,N/A,0,N/A,N/A,N/A
+556,1/1/1900 20:00,2620,Wednesday,N/A,0,N/A,N/A,N/A
+557,1/1/1900 20:30,2620,Wednesday,N/A,0,N/A,N/A,N/A
+558,1/1/1900 21:00,2620,Wednesday,N/A,0,N/A,N/A,N/A
+559,1/1/1900 21:30,2620,Wednesday,,0,,21:30,22:00
+560,1/1/1900 8:00,2650,Friday,,0,,8:00,8:30
+561,1/1/1900 8:30,2650,Friday,N/A,0,N/A,N/A,N/A
+562,1/1/1900 9:00,2650,Friday,ISTE( 230)-IntroToDatabaseAndDataModeling,30,Elissa Weeden,9:00,9:50
+563,1/1/1900 9:30,2650,Friday,ISTE( 230)-IntroToDatabaseAndDataModeling,30,Elissa Weeden,9:00,9:50
+564,1/1/1900 10:00,2650,Friday,ISTE( 724)-DataWarehousing,9,Jai Kang,10:00,10:50
+565,1/1/1900 10:30,2650,Friday,ISTE( 724)-DataWarehousing,9,Jai Kang,10:00,10:50
+566,1/1/1900 11:00,2650,Friday,ISTE( 330)-DatabaseConnectivityAndAccess,26,Jim Habermas,11:00,11:50
+567,1/1/1900 11:30,2650,Friday,ISTE( 330)-DatabaseConnectivityAndAccess,26,Jim Habermas,11:00,11:50
+568,1/1/1900 12:00,2650,Friday,ISTE( 230)-IntroToDatabaseAndDataModeling,27,Jim Habermas,12:00,12:50
+569,1/1/1900 12:30,2650,Friday,ISTE( 230)-IntroToDatabaseAndDataModeling,27,Jim Habermas,12:00,12:50
+570,1/1/1900 13:00,2650,Friday,ISTE( 230)-IntroToDatabaseAndDataModeling,30,David Patric,13:00,13:50
+571,1/1/1900 13:30,2650,Friday,ISTE( 230)-IntroToDatabaseAndDataModeling,30,David Patric,13:00,13:50
+572,1/1/1900 14:00,2650,Friday,ISTE( 432)-DatabaseApplicationDevelopment,13,Michael McQuaid,14:00,14:50
+573,1/1/1900 14:30,2650,Friday,ISTE( 432)-DatabaseApplicationDevelopment,13,Michael McQuaid,14:00,14:50
+574,1/1/1900 15:00,2650,Friday,N/A,0,N/A,N/A,N/A
+575,1/1/1900 15:30,2650,Friday,N/A,0,N/A,N/A,N/A
+576,1/1/1900 16:00,2650,Friday,N/A,0,N/A,N/A,N/A
+577,1/1/1900 16:30,2650,Friday,N/A,0,N/A,N/A,N/A
+578,1/1/1900 17:00,2650,Friday,N/A,0,N/A,N/A,N/A
+579,1/1/1900 17:30,2650,Friday,N/A,0,N/A,N/A,N/A
+580,1/1/1900 18:00,2650,Friday,N/A,0,N/A,N/A,N/A
+581,1/1/1900 18:30,2650,Friday,N/A,0,N/A,N/A,N/A
+582,1/1/1900 19:00,2650,Friday,N/A,0,N/A,N/A,N/A
+583,1/1/1900 19:30,2650,Friday,N/A,0,N/A,N/A,N/A
+584,1/1/1900 20:00,2650,Friday,N/A,0,N/A,N/A,N/A
+585,1/1/1900 20:30,2650,Friday,N/A,0,N/A,N/A,N/A
+586,1/1/1900 21:00,2650,Friday,N/A,0,N/A,N/A,N/A
+587,1/1/1900 21:30,2650,Friday,,0,,21:30,22:00
+588,1/1/1900 8:00,2650,Monday,,0,,8:00,8:30
+589,1/1/1900 8:30,2650,Monday,N/A,0,N/A,N/A,N/A
+590,1/1/1900 9:00,2650,Monday,ISTE( 230)-IntroToDatabaseAndDataModeling,30,Elissa Weeden,9:00,9:50
+591,1/1/1900 9:30,2650,Monday,ISTE( 230)-IntroToDatabaseAndDataModeling,30,Elissa Weeden,9:00,9:50
+592,1/1/1900 10:00,2650,Monday,ISTE( 724)-DataWarehousing,9,Jai Kang,10:00,10:50
+593,1/1/1900 10:30,2650,Monday,ISTE( 724)-DataWarehousing,9,Jai Kang,10:00,10:50
+594,1/1/1900 11:00,2650,Monday,ISTE( 330)-DatabaseConnectivityAndAccess,26,Jim Habermas,11:00,11:50
+595,1/1/1900 11:30,2650,Monday,ISTE( 330)-DatabaseConnectivityAndAccess,26,Jim Habermas,11:00,11:50
+596,1/1/1900 12:00,2650,Monday,ISTE( 230)-IntroToDatabaseAndDataModeling,27,Jim Habermas,12:00,12:50
+597,1/1/1900 12:30,2650,Monday,ISTE( 230)-IntroToDatabaseAndDataModeling,27,Jim Habermas,12:00,12:50
+598,1/1/1900 13:00,2650,Monday,ISTE( 230)-IntroToDatabaseAndDataModeling,30,David Patric,13:00,13:50
+599,1/1/1900 13:30,2650,Monday,ISTE( 230)-IntroToDatabaseAndDataModeling,30,David Patric,13:00,13:50
+600,1/1/1900 14:00,2650,Monday,ISTE( 432)-DatabaseApplicationDevelopment,13,Michael McQuaid,14:00,14:50
+601,1/1/1900 14:30,2650,Monday,ISTE( 432)-DatabaseApplicationDevelopment,13,Michael McQuaid,14:00,14:50
+602,1/1/1900 15:00,2650,Monday,N/A,0,N/A,N/A,N/A
+603,1/1/1900 15:30,2650,Monday,N/A,0,N/A,N/A,N/A
+604,1/1/1900 16:00,2650,Monday,N/A,0,N/A,N/A,N/A
+605,1/1/1900 16:30,2650,Monday,N/A,0,N/A,N/A,N/A
+606,1/1/1900 17:00,2650,Monday,ISTE( 646)-FoundationsOfWebTechnologiesII,9,John-Paul Takats,17:00,19:50
+607,1/1/1900 17:30,2650,Monday,ISTE( 646)-FoundationsOfWebTechnologiesII,9,John-Paul Takats,17:00,19:50
+608,1/1/1900 18:00,2650,Monday,ISTE( 646)-FoundationsOfWebTechnologiesII,9,John-Paul Takats,17:00,19:50
+609,1/1/1900 18:30,2650,Monday,ISTE( 646)-FoundationsOfWebTechnologiesII,9,John-Paul Takats,17:00,19:50
+610,1/1/1900 19:00,2650,Monday,ISTE( 646)-FoundationsOfWebTechnologiesII,9,John-Paul Takats,17:00,19:50
+611,1/1/1900 19:30,2650,Monday,ISTE( 646)-FoundationsOfWebTechnologiesII,9,John-Paul Takats,17:00,19:50
+612,1/1/1900 20:00,2650,Monday,N/A,0,N/A,N/A,N/A
+613,1/1/1900 20:30,2650,Monday,N/A,0,N/A,N/A,N/A
+614,1/1/1900 21:00,2650,Monday,N/A,0,N/A,N/A,N/A
+615,1/1/1900 21:30,2650,Monday,,0,,21:30,22:00
+616,1/1/1900 8:00,2650,Thursday,ISTE( 240)-Web&MobileII,27,Jim Habermas,8:00,9:15
+617,1/1/1900 8:30,2650,Thursday,ISTE( 240)-Web&MobileII,27,Jim Habermas,8:00,9:15
+618,1/1/1900 9:00,2650,Thursday,ISTE( 240)-Web&MobileII,27,Jim Habermas,8:00,9:15
+619,1/1/1900 9:30,2650,Thursday,ISTE( 340)-ClientProgramming,30,Dan Bogaard,9:30,10:45
+620,1/1/1900 10:00,2650,Thursday,ISTE( 340)-ClientProgramming,30,Dan Bogaard,9:30,10:45
+621,1/1/1900 10:30,2650,Thursday,ISTE( 340)-ClientProgramming,30,Dan Bogaard,9:30,10:45
+622,1/1/1900 11:00,2650,Thursday,ISTE( 444)-WebServerDevelopmentAndAdmin,21,Dean Ganskop,11:00,12:15
+623,1/1/1900 11:30,2650,Thursday,ISTE( 444)-WebServerDevelopmentAndAdmin,21,Dean Ganskop,11:00,12:15
+624,1/1/1900 12:00,2650,Thursday,ISTE( 444)-WebServerDevelopmentAndAdmin,21,Dean Ganskop,11:00,12:15
+625,1/1/1900 12:30,2650,Thursday,N/A,0,N/A,N/A,N/A
+626,1/1/1900 13:00,2650,Thursday,N/A,0,N/A,N/A,N/A
+627,1/1/1900 13:30,2650,Thursday,N/A,0,N/A,N/A,N/A
+628,1/1/1900 14:00,2650,Thursday,N/A,0,N/A,N/A,N/A
+629,1/1/1900 14:30,2650,Thursday,N/A,0,N/A,N/A,N/A
+630,1/1/1900 15:00,2650,Thursday,N/A,0,N/A,N/A,N/A
+631,1/1/1900 15:30,2650,Thursday,N/A,0,N/A,N/A,N/A
+632,1/1/1900 16:00,2650,Thursday,N/A,0,N/A,N/A,N/A
+633,1/1/1900 16:30,2650,Thursday,N/A,0,N/A,N/A,N/A
+634,1/1/1900 17:00,2650,Thursday,ISTE( 230)-IntroToDatabaseAndDataModeling,27,Andrew Distasi,17:00,18:15
+635,1/1/1900 17:30,2650,Thursday,ISTE( 230)-IntroToDatabaseAndDataModeling,27,Andrew Distasi,17:00,18:15
+636,1/1/1900 18:00,2650,Thursday,ISTE( 230)-IntroToDatabaseAndDataModeling,27,Andrew Distasi,17:00,18:15
+637,1/1/1900 18:30,2650,Thursday,ISTE( 340)-ClientProgramming,12,Paul Goldman,18:30,19:45
+638,1/1/1900 19:00,2650,Thursday,ISTE( 340)-ClientProgramming,12,Paul Goldman,18:30,19:45
+639,1/1/1900 19:30,2650,Thursday,ISTE( 340)-ClientProgramming,12,Paul Goldman,18:30,19:45
+640,1/1/1900 20:00,2650,Thursday,N/A,0,N/A,N/A,N/A
+641,1/1/1900 20:30,2650,Thursday,N/A,0,N/A,N/A,N/A
+642,1/1/1900 21:00,2650,Thursday,N/A,0,N/A,N/A,N/A
+643,1/1/1900 21:30,2650,Thursday,,0,,21:30,22:00
+644,1/1/1900 8:00,2650,Tuesday,ISTE( 240)-Web&MobileII,27,Jim Habermas,8:00,9:15
+645,1/1/1900 8:30,2650,Tuesday,ISTE( 240)-Web&MobileII,27,Jim Habermas,8:00,9:15
+646,1/1/1900 9:00,2650,Tuesday,ISTE( 240)-Web&MobileII,27,Jim Habermas,8:00,9:15
+647,1/1/1900 9:30,2650,Tuesday,ISTE( 340)-ClientProgramming,30,Dan Bogaard,9:30,10:45
+648,1/1/1900 10:00,2650,Tuesday,ISTE( 340)-ClientProgramming,30,Dan Bogaard,9:30,10:45
+649,1/1/1900 10:30,2650,Tuesday,ISTE( 340)-ClientProgramming,30,Dan Bogaard,9:30,10:45
+650,1/1/1900 11:00,2650,Tuesday,ISTE( 444)-WebServerDevelopmentAndAdmin,21,Dean Ganskop,11:00,12:15
+651,1/1/1900 11:30,2650,Tuesday,ISTE( 444)-WebServerDevelopmentAndAdmin,21,Dean Ganskop,11:00,12:15
+652,1/1/1900 12:00,2650,Tuesday,ISTE( 444)-WebServerDevelopmentAndAdmin,21,Dean Ganskop,11:00,12:15
+653,1/1/1900 12:30,2650,Tuesday,N/A,0,N/A,N/A,N/A
+654,1/1/1900 13:00,2650,Tuesday,N/A,0,N/A,N/A,N/A
+655,1/1/1900 13:30,2650,Tuesday,N/A,0,N/A,N/A,N/A
+656,1/1/1900 14:00,2650,Tuesday,N/A,0,N/A,N/A,N/A
+657,1/1/1900 14:30,2650,Tuesday,N/A,0,N/A,N/A,N/A
+658,1/1/1900 15:00,2650,Tuesday,N/A,0,N/A,N/A,N/A
+659,1/1/1900 15:30,2650,Tuesday,N/A,0,N/A,N/A,N/A
+660,1/1/1900 16:00,2650,Tuesday,N/A,0,N/A,N/A,N/A
+661,1/1/1900 16:30,2650,Tuesday,N/A,0,N/A,N/A,N/A
+662,1/1/1900 17:00,2650,Tuesday,ISTE( 230)-IntroToDatabaseAndDataModeling,27,Andrew Distasi,17:00,18:15
+663,1/1/1900 17:30,2650,Tuesday,ISTE( 230)-IntroToDatabaseAndDataModeling,27,Andrew Distasi,17:00,18:15
+664,1/1/1900 18:00,2650,Tuesday,ISTE( 230)-IntroToDatabaseAndDataModeling,27,Andrew Distasi,17:00,18:15
+665,1/1/1900 18:30,2650,Tuesday,ISTE( 340)-ClientProgramming,12,Paul Goldman,18:30,19:45
+666,1/1/1900 19:00,2650,Tuesday,ISTE( 340)-ClientProgramming,12,Paul Goldman,18:30,19:45
+667,1/1/1900 19:30,2650,Tuesday,ISTE( 340)-ClientProgramming,12,Paul Goldman,18:30,19:45
+668,1/1/1900 20:00,2650,Tuesday,N/A,0,N/A,N/A,N/A
+669,1/1/1900 20:30,2650,Tuesday,N/A,0,N/A,N/A,N/A
+670,1/1/1900 21:00,2650,Tuesday,N/A,0,N/A,N/A,N/A
+671,1/1/1900 21:30,2650,Tuesday,,0,,21:30,22:00
+672,1/1/1900 8:00,2650,Wednesday,,0,,8:00,8:30
+673,1/1/1900 8:30,2650,Wednesday,N/A,0,N/A,N/A,N/A
+674,1/1/1900 9:00,2650,Wednesday,ISTE( 230)-IntroToDatabaseAndDataModeling,30,Elissa Weeden,9:00,9:50
+675,1/1/1900 9:30,2650,Wednesday,ISTE( 230)-IntroToDatabaseAndDataModeling,30,Elissa Weeden,9:00,9:50
+676,1/1/1900 10:00,2650,Wednesday,ISTE( 724)-DataWarehousing,9,Jai Kang,10:00,10:50
+677,1/1/1900 10:30,2650,Wednesday,ISTE( 724)-DataWarehousing,9,Jai Kang,10:00,10:50
+678,1/1/1900 11:00,2650,Wednesday,ISTE( 330)-DatabaseConnectivityAndAccess,26,Jim Habermas,11:00,11:50
+679,1/1/1900 11:30,2650,Wednesday,ISTE( 330)-DatabaseConnectivityAndAccess,26,Jim Habermas,11:00,11:50
+680,1/1/1900 12:00,2650,Wednesday,ISTE( 230)-IntroToDatabaseAndDataModeling,27,Jim Habermas,12:00,12:50
+681,1/1/1900 12:30,2650,Wednesday,ISTE( 230)-IntroToDatabaseAndDataModeling,27,Jim Habermas,12:00,12:50
+682,1/1/1900 13:00,2650,Wednesday,ISTE( 230)-IntroToDatabaseAndDataModeling,30,David Patric,13:00,13:50
+683,1/1/1900 13:30,2650,Wednesday,ISTE( 230)-IntroToDatabaseAndDataModeling,30,David Patric,13:00,13:50
+684,1/1/1900 14:00,2650,Wednesday,ISTE( 432)-DatabaseApplicationDevelopment,13,Michael McQuaid,14:00,14:50
+685,1/1/1900 14:30,2650,Wednesday,ISTE( 432)-DatabaseApplicationDevelopment,13,Michael McQuaid,14:00,14:50
+686,1/1/1900 15:00,2650,Wednesday,N/A,0,N/A,N/A,N/A
+687,1/1/1900 15:30,2650,Wednesday,N/A,0,N/A,N/A,N/A
+688,1/1/1900 16:00,2650,Wednesday,N/A,0,N/A,N/A,N/A
+689,1/1/1900 16:30,2650,Wednesday,N/A,0,N/A,N/A,N/A
+690,1/1/1900 17:00,2650,Wednesday,N/A,0,N/A,N/A,N/A
+691,1/1/1900 17:30,2650,Wednesday,N/A,0,N/A,N/A,N/A
+692,1/1/1900 18:00,2650,Wednesday,N/A,0,N/A,N/A,N/A
+693,1/1/1900 18:30,2650,Wednesday,N/A,0,N/A,N/A,N/A
+694,1/1/1900 19:00,2650,Wednesday,N/A,0,N/A,N/A,N/A
+695,1/1/1900 19:30,2650,Wednesday,N/A,0,N/A,N/A,N/A
+696,1/1/1900 20:00,2650,Wednesday,N/A,0,N/A,N/A,N/A
+697,1/1/1900 20:30,2650,Wednesday,N/A,0,N/A,N/A,N/A
+698,1/1/1900 21:00,2650,Wednesday,N/A,0,N/A,N/A,N/A
+699,1/1/1900 21:30,2650,Wednesday,,0,,21:30,22:00
+700,1/1/1900 8:00,3510,Friday,,0,,8:00,8:30
+701,1/1/1900 8:30,3510,Friday,N/A,0,N/A,N/A,N/A
+702,1/1/1900 9:00,3510,Friday,N/A,0,N/A,N/A,N/A
+703,1/1/1900 9:30,3510,Friday,N/A,0,N/A,N/A,N/A
+704,1/1/1900 10:00,3510,Friday,N/A,0,N/A,N/A,N/A
+705,1/1/1900 10:30,3510,Friday,N/A,0,N/A,N/A,N/A
+706,1/1/1900 11:00,3510,Friday,ISTE( 264)-PrototypingandUsabilityTesting,19,Michael McQuaid,11:00,11:50
+707,1/1/1900 11:30,3510,Friday,ISTE( 264)-PrototypingandUsabilityTesting,19,Michael McQuaid,11:00,11:50
+708,1/1/1900 12:00,3510,Friday,ISTE( 756)-ServerDesignAndDevelopment,10,Bryan French,12:00,12:50
+709,1/1/1900 12:30,3510,Friday,ISTE( 756)-ServerDesignAndDevelopment,10,Bryan French,12:00,12:50
+710,1/1/1900 13:00,3510,Friday,N/A,0,N/A,N/A,N/A
+711,1/1/1900 13:30,3510,Friday,N/A,0,N/A,N/A,N/A
+712,1/1/1900 14:00,3510,Friday,N/A,0,N/A,N/A,N/A
+713,1/1/1900 14:30,3510,Friday,N/A,0,N/A,N/A,N/A
+714,1/1/1900 15:00,3510,Friday,N/A,0,N/A,N/A,N/A
+715,1/1/1900 15:30,3510,Friday,N/A,0,N/A,N/A,N/A
+716,1/1/1900 16:00,3510,Friday,N/A,0,N/A,N/A,N/A
+717,1/1/1900 16:30,3510,Friday,N/A,0,N/A,N/A,N/A
+718,1/1/1900 17:00,3510,Friday,N/A,0,N/A,N/A,N/A
+719,1/1/1900 17:30,3510,Friday,N/A,0,N/A,N/A,N/A
+720,1/1/1900 18:00,3510,Friday,N/A,0,N/A,N/A,N/A
+721,1/1/1900 18:30,3510,Friday,N/A,0,N/A,N/A,N/A
+722,1/1/1900 19:00,3510,Friday,N/A,0,N/A,N/A,N/A
+723,1/1/1900 19:30,3510,Friday,N/A,0,N/A,N/A,N/A
+724,1/1/1900 20:00,3510,Friday,N/A,0,N/A,N/A,N/A
+725,1/1/1900 20:30,3510,Friday,N/A,0,N/A,N/A,N/A
+726,1/1/1900 21:00,3510,Friday,N/A,0,N/A,N/A,N/A
+727,1/1/1900 21:30,3510,Friday,,0,,21:30,22:00
+728,1/1/1900 8:00,3510,Monday,,0,,8:00,8:30
+729,1/1/1900 8:30,3510,Monday,N/A,0,N/A,N/A,N/A
+730,1/1/1900 9:00,3510,Monday,N/A,0,N/A,N/A,N/A
+731,1/1/1900 9:30,3510,Monday,N/A,0,N/A,N/A,N/A
+732,1/1/1900 10:00,3510,Monday,N/A,0,N/A,N/A,N/A
+733,1/1/1900 10:30,3510,Monday,N/A,0,N/A,N/A,N/A
+734,1/1/1900 11:00,3510,Monday,ISTE( 264)-PrototypingandUsabilityTesting,19,Michael McQuaid,11:00,11:50
+735,1/1/1900 11:30,3510,Monday,ISTE( 264)-PrototypingandUsabilityTesting,19,Michael McQuaid,11:00,11:50
+736,1/1/1900 12:00,3510,Monday,ISTE( 756)-ServerDesignAndDevelopment,10,Bryan French,12:00,12:50
+737,1/1/1900 12:30,3510,Monday,ISTE( 756)-ServerDesignAndDevelopment,10,Bryan French,12:00,12:50
+738,1/1/1900 13:00,3510,Monday,N/A,0,N/A,N/A,N/A
+739,1/1/1900 13:30,3510,Monday,N/A,0,N/A,N/A,N/A
+740,1/1/1900 14:00,3510,Monday,N/A,0,N/A,N/A,N/A
+741,1/1/1900 14:30,3510,Monday,N/A,0,N/A,N/A,N/A
+742,1/1/1900 15:00,3510,Monday,N/A,0,N/A,N/A,N/A
+743,1/1/1900 15:30,3510,Monday,N/A,0,N/A,N/A,N/A
+744,1/1/1900 16:00,3510,Monday,N/A,0,N/A,N/A,N/A
+745,1/1/1900 16:30,3510,Monday,N/A,0,N/A,N/A,N/A
+746,1/1/1900 17:00,3510,Monday,ISTE( 260)-DesigningTheUserExperience,22,Catherine Beaton,17:00,18:15
+747,1/1/1900 17:30,3510,Monday,ISTE( 260)-DesigningTheUserExperience,22,Catherine Beaton,17:00,18:15
+748,1/1/1900 18:00,3510,Monday,ISTE( 260)-DesigningTheUserExperience,22,Catherine Beaton,17:00,18:15
+749,1/1/1900 18:30,3510,Monday,N/A,0,N/A,N/A,N/A
+750,1/1/1900 19:00,3510,Monday,N/A,0,N/A,N/A,N/A
+751,1/1/1900 19:30,3510,Monday,N/A,0,N/A,N/A,N/A
+752,1/1/1900 20:00,3510,Monday,N/A,0,N/A,N/A,N/A
+753,1/1/1900 20:30,3510,Monday,N/A,0,N/A,N/A,N/A
+754,1/1/1900 21:00,3510,Monday,N/A,0,N/A,N/A,N/A
+755,1/1/1900 21:30,3510,Monday,,0,,21:30,22:00
+756,1/1/1900 8:00,3510,Thursday,ISTE( 252)-FoundationsOfMobileDesign,28,Stephen Cady,8:00,9:15
+757,1/1/1900 8:30,3510,Thursday,ISTE( 252)-FoundationsOfMobileDesign,28,Stephen Cady,8:00,9:15
+758,1/1/1900 9:00,3510,Thursday,ISTE( 252)-FoundationsOfMobileDesign,28,Stephen Cady,8:00,9:15
+759,1/1/1900 9:30,3510,Thursday,ISTE( 260)-DesigningTheUserExperience,30,Matt Huenerfauth,9:30,10:45
+760,1/1/1900 10:00,3510,Thursday,ISTE( 260)-DesigningTheUserExperience,30,Matt Huenerfauth,9:30,10:45
+761,1/1/1900 10:30,3510,Thursday,ISTE( 260)-DesigningTheUserExperience,30,Matt Huenerfauth,9:30,10:45
+762,1/1/1900 11:00,3510,Thursday,ISTE( 140)-Web&MobileI,30,Stephen Cady,11:00,12:15
+763,1/1/1900 11:30,3510,Thursday,ISTE( 140)-Web&MobileI,30,Stephen Cady,11:00,12:15
+764,1/1/1900 12:00,3510,Thursday,ISTE( 140)-Web&MobileI,30,Stephen Cady,11:00,12:15
+765,1/1/1900 12:30,3510,Thursday,N/A,0,N/A,N/A,N/A
+766,1/1/1900 13:00,3510,Thursday,N/A,0,N/A,N/A,N/A
+767,1/1/1900 13:30,3510,Thursday,N/A,0,N/A,N/A,N/A
+768,1/1/1900 14:00,3510,Thursday,ISTE( 252)-FoundationsOfMobileDesign,30,Stephen Cady,14:00,15:15
+769,1/1/1900 14:30,3510,Thursday,ISTE( 252)-FoundationsOfMobileDesign,30,Stephen Cady,14:00,15:15
+770,1/1/1900 15:00,3510,Thursday,ISTE( 252)-FoundationsOfMobileDesign,30,Stephen Cady,14:00,15:15
+771,1/1/1900 15:30,3510,Thursday,N/A,0,N/A,N/A,N/A
+772,1/1/1900 16:00,3510,Thursday,N/A,0,N/A,N/A,N/A
+773,1/1/1900 16:30,3510,Thursday,N/A,0,N/A,N/A,N/A
+774,1/1/1900 17:00,3510,Thursday,N/A,0,N/A,N/A,N/A
+775,1/1/1900 17:30,3510,Thursday,N/A,0,N/A,N/A,N/A
+776,1/1/1900 18:00,3510,Thursday,N/A,0,N/A,N/A,N/A
+777,1/1/1900 18:30,3510,Thursday,N/A,0,N/A,N/A,N/A
+778,1/1/1900 19:00,3510,Thursday,N/A,0,N/A,N/A,N/A
+779,1/1/1900 19:30,3510,Thursday,N/A,0,N/A,N/A,N/A
+780,1/1/1900 20:00,3510,Thursday,N/A,0,N/A,N/A,N/A
+781,1/1/1900 20:30,3510,Thursday,N/A,0,N/A,N/A,N/A
+782,1/1/1900 21:00,3510,Thursday,N/A,0,N/A,N/A,N/A
+783,1/1/1900 21:30,3510,Thursday,,0,,21:30,22:00
+784,1/1/1900 8:00,3510,Tuesday,ISTE( 252)-FoundationsOfMobileDesign,28,Stephen Cady,8:00,9:15
+785,1/1/1900 8:30,3510,Tuesday,ISTE( 252)-FoundationsOfMobileDesign,28,Stephen Cady,8:00,9:15
+786,1/1/1900 9:00,3510,Tuesday,ISTE( 252)-FoundationsOfMobileDesign,28,Stephen Cady,8:00,9:15
+787,1/1/1900 9:30,3510,Tuesday,ISTE( 260)-DesigningTheUserExperience,30,Matt Huenerfauth,9:30,10:45
+788,1/1/1900 10:00,3510,Tuesday,ISTE( 260)-DesigningTheUserExperience,30,Matt Huenerfauth,9:30,10:45
+789,1/1/1900 10:30,3510,Tuesday,ISTE( 260)-DesigningTheUserExperience,30,Matt Huenerfauth,9:30,10:45
+790,1/1/1900 11:00,3510,Tuesday,ISTE( 140)-Web&MobileI,30,Stephen Cady,11:00,12:15
+791,1/1/1900 11:30,3510,Tuesday,ISTE( 140)-Web&MobileI,30,Stephen Cady,11:00,12:15
+792,1/1/1900 12:00,3510,Tuesday,ISTE( 140)-Web&MobileI,30,Stephen Cady,11:00,12:15
+793,1/1/1900 12:30,3510,Tuesday,N/A,0,N/A,N/A,N/A
+794,1/1/1900 13:00,3510,Tuesday,N/A,0,N/A,N/A,N/A
+795,1/1/1900 13:30,3510,Tuesday,N/A,0,N/A,N/A,N/A
+796,1/1/1900 14:00,3510,Tuesday,ISTE( 252)-FoundationsOfMobileDesign,30,Stephen Cady,14:00,15:15
+797,1/1/1900 14:30,3510,Tuesday,ISTE( 252)-FoundationsOfMobileDesign,30,Stephen Cady,14:00,15:15
+798,1/1/1900 15:00,3510,Tuesday,ISTE( 252)-FoundationsOfMobileDesign,30,Stephen Cady,14:00,15:15
+799,1/1/1900 15:30,3510,Tuesday,N/A,0,N/A,N/A,N/A
+800,1/1/1900 16:00,3510,Tuesday,N/A,0,N/A,N/A,N/A
+801,1/1/1900 16:30,3510,Tuesday,N/A,0,N/A,N/A,N/A
+802,1/1/1900 17:00,3510,Tuesday,N/A,0,N/A,N/A,N/A
+803,1/1/1900 17:30,3510,Tuesday,N/A,0,N/A,N/A,N/A
+804,1/1/1900 18:00,3510,Tuesday,N/A,0,N/A,N/A,N/A
+805,1/1/1900 18:30,3510,Tuesday,N/A,0,N/A,N/A,N/A
+806,1/1/1900 19:00,3510,Tuesday,N/A,0,N/A,N/A,N/A
+807,1/1/1900 19:30,3510,Tuesday,N/A,0,N/A,N/A,N/A
+808,1/1/1900 20:00,3510,Tuesday,N/A,0,N/A,N/A,N/A
+809,1/1/1900 20:30,3510,Tuesday,N/A,0,N/A,N/A,N/A
+810,1/1/1900 21:00,3510,Tuesday,N/A,0,N/A,N/A,N/A
+811,1/1/1900 21:30,3510,Tuesday,,0,,21:30,22:00
+812,1/1/1900 8:00,3510,Wednesday,,0,,8:00,8:30
+813,1/1/1900 8:30,3510,Wednesday,N/A,0,N/A,N/A,N/A
+814,1/1/1900 9:00,3510,Wednesday,N/A,0,N/A,N/A,N/A
+815,1/1/1900 9:30,3510,Wednesday,N/A,0,N/A,N/A,N/A
+816,1/1/1900 10:00,3510,Wednesday,N/A,0,N/A,N/A,N/A
+817,1/1/1900 10:30,3510,Wednesday,N/A,0,N/A,N/A,N/A
+818,1/1/1900 11:00,3510,Wednesday,ISTE( 264)-PrototypingandUsabilityTesting,19,Michael McQuaid,11:00,11:50
+819,1/1/1900 11:30,3510,Wednesday,ISTE( 264)-PrototypingandUsabilityTesting,19,Michael McQuaid,11:00,11:50
+820,1/1/1900 12:00,3510,Wednesday,ISTE( 756)-ServerDesignAndDevelopment,10,Bryan French,12:00,12:50
+821,1/1/1900 12:30,3510,Wednesday,ISTE( 756)-ServerDesignAndDevelopment,10,Bryan French,12:00,12:50
+822,1/1/1900 13:00,3510,Wednesday,N/A,0,N/A,N/A,N/A
+823,1/1/1900 13:30,3510,Wednesday,N/A,0,N/A,N/A,N/A
+824,1/1/1900 14:00,3510,Wednesday,N/A,0,N/A,N/A,N/A
+825,1/1/1900 14:30,3510,Wednesday,N/A,0,N/A,N/A,N/A
+826,1/1/1900 15:00,3510,Wednesday,N/A,0,N/A,N/A,N/A
+827,1/1/1900 15:30,3510,Wednesday,N/A,0,N/A,N/A,N/A
+828,1/1/1900 16:00,3510,Wednesday,N/A,0,N/A,N/A,N/A
+829,1/1/1900 16:30,3510,Wednesday,N/A,0,N/A,N/A,N/A
+830,1/1/1900 17:00,3510,Wednesday,ISTE( 260)-DesigningTheUserExperience,22,Catherine Beaton,17:00,18:15
+831,1/1/1900 17:30,3510,Wednesday,ISTE( 260)-DesigningTheUserExperience,22,Catherine Beaton,17:00,18:15
+832,1/1/1900 18:00,3510,Wednesday,ISTE( 260)-DesigningTheUserExperience,22,Catherine Beaton,17:00,18:15
+833,1/1/1900 18:30,3510,Wednesday,N/A,0,N/A,N/A,N/A
+834,1/1/1900 19:00,3510,Wednesday,N/A,0,N/A,N/A,N/A
+835,1/1/1900 19:30,3510,Wednesday,N/A,0,N/A,N/A,N/A
+836,1/1/1900 20:00,3510,Wednesday,N/A,0,N/A,N/A,N/A
+837,1/1/1900 20:30,3510,Wednesday,N/A,0,N/A,N/A,N/A
+838,1/1/1900 21:00,3510,Wednesday,N/A,0,N/A,N/A,N/A
+839,1/1/1900 21:30,3510,Wednesday,,0,,21:30,22:00
+840,1/1/1900 8:00,3690,Friday,ISTE( 121)-CompProblemSolvingInfoDomainII,21,Bryan French,8:00,9:50
+841,1/1/1900 8:30,3690,Friday,ISTE( 121)-CompProblemSolvingInfoDomainII,21,Bryan French,8:00,9:50
+842,1/1/1900 9:00,3690,Friday,ISTE( 121)-CompProblemSolvingInfoDomainII,21,Bryan French,8:00,9:50
+843,1/1/1900 9:30,3690,Friday,ISTE( 121)-CompProblemSolvingInfoDomainII,21,Bryan French,8:00,9:50
+844,1/1/1900 10:00,3690,Friday,ISTE( 121)-CompProblemSolvingInfoDomainII,30,David Patric,10:00,11:50
+845,1/1/1900 10:30,3690,Friday,ISTE( 121)-CompProblemSolvingInfoDomainII,30,David Patric,10:00,11:50
+846,1/1/1900 11:00,3690,Friday,ISTE( 121)-CompProblemSolvingInfoDomainII,30,David Patric,10:00,11:50
+847,1/1/1900 11:30,3690,Friday,ISTE( 121)-CompProblemSolvingInfoDomainII,30,David Patric,10:00,11:50
+848,1/1/1900 12:00,3690,Friday,N/A,0,N/A,N/A,N/A
+849,1/1/1900 12:30,3690,Friday,N/A,0,N/A,N/A,N/A
+850,1/1/1900 13:00,3690,Friday,ISTE( 341)-ServerProgramming,30,Bryan French,13:00,13:50
+851,1/1/1900 13:30,3690,Friday,ISTE( 341)-ServerProgramming,30,Bryan French,13:00,13:50
+852,1/1/1900 14:00,3690,Friday,ISTE( 121)-CompProblemSolvingInfoDomainII,32,Edward Holden,14:00,15:50
+853,1/1/1900 14:30,3690,Friday,ISTE( 121)-CompProblemSolvingInfoDomainII,32,Edward Holden,14:00,15:50
+854,1/1/1900 15:00,3690,Friday,ISTE( 121)-CompProblemSolvingInfoDomainII,32,Edward Holden,14:00,15:50
+855,1/1/1900 15:30,3690,Friday,ISTE( 121)-CompProblemSolvingInfoDomainII,32,Edward Holden,14:00,15:50
+856,1/1/1900 16:00,3690,Friday,N/A,0,N/A,N/A,N/A
+857,1/1/1900 16:30,3690,Friday,N/A,0,N/A,N/A,N/A
+858,1/1/1900 17:00,3690,Friday,N/A,0,N/A,N/A,N/A
+859,1/1/1900 17:30,3690,Friday,N/A,0,N/A,N/A,N/A
+860,1/1/1900 18:00,3690,Friday,N/A,0,N/A,N/A,N/A
+861,1/1/1900 18:30,3690,Friday,N/A,0,N/A,N/A,N/A
+862,1/1/1900 19:00,3690,Friday,N/A,0,N/A,N/A,N/A
+863,1/1/1900 19:30,3690,Friday,N/A,0,N/A,N/A,N/A
+864,1/1/1900 20:00,3690,Friday,N/A,0,N/A,N/A,N/A
+865,1/1/1900 20:30,3690,Friday,N/A,0,N/A,N/A,N/A
+866,1/1/1900 21:00,3690,Friday,N/A,0,N/A,N/A,N/A
+867,1/1/1900 21:30,3690,Friday,,0,,21:30,22:00
+868,1/1/1900 8:00,3690,Monday,ISTE( 121)-CompProblemSolvingInfoDomainII,21,Bryan French,8:00,9:50
+869,1/1/1900 8:30,3690,Monday,ISTE( 121)-CompProblemSolvingInfoDomainII,21,Bryan French,8:00,9:50
+870,1/1/1900 9:00,3690,Monday,ISTE( 121)-CompProblemSolvingInfoDomainII,21,Bryan French,8:00,9:50
+871,1/1/1900 9:30,3690,Monday,ISTE( 121)-CompProblemSolvingInfoDomainII,21,Bryan French,8:00,9:50
+872,1/1/1900 10:00,3690,Monday,ISTE( 121)-CompProblemSolvingInfoDomainII,30,David Patric,10:00,11:50
+873,1/1/1900 10:30,3690,Monday,ISTE( 121)-CompProblemSolvingInfoDomainII,30,David Patric,10:00,11:50
+874,1/1/1900 11:00,3690,Monday,ISTE( 121)-CompProblemSolvingInfoDomainII,30,David Patric,10:00,11:50
+875,1/1/1900 11:30,3690,Monday,ISTE( 121)-CompProblemSolvingInfoDomainII,30,David Patric,10:00,11:50
+876,1/1/1900 12:00,3690,Monday,N/A,0,N/A,N/A,N/A
+877,1/1/1900 12:30,3690,Monday,N/A,0,N/A,N/A,N/A
+878,1/1/1900 13:00,3690,Monday,ISTE( 341)-ServerProgramming,30,Bryan French,13:00,13:50
+879,1/1/1900 13:30,3690,Monday,ISTE( 341)-ServerProgramming,30,Bryan French,13:00,13:50
+880,1/1/1900 14:00,3690,Monday,ISTE( 121)-CompProblemSolvingInfoDomainII,32,Edward Holden,14:00,15:50
+881,1/1/1900 14:30,3690,Monday,ISTE( 121)-CompProblemSolvingInfoDomainII,32,Edward Holden,14:00,15:50
+882,1/1/1900 15:00,3690,Monday,ISTE( 121)-CompProblemSolvingInfoDomainII,32,Edward Holden,14:00,15:50
+883,1/1/1900 15:30,3690,Monday,ISTE( 121)-CompProblemSolvingInfoDomainII,32,Edward Holden,14:00,15:50
+884,1/1/1900 16:00,3690,Monday,N/A,0,N/A,N/A,N/A
+885,1/1/1900 16:30,3690,Monday,N/A,0,N/A,N/A,N/A
+886,1/1/1900 17:00,3690,Monday,N/A,0,N/A,N/A,N/A
+887,1/1/1900 17:30,3690,Monday,N/A,0,N/A,N/A,N/A
+888,1/1/1900 18:00,3690,Monday,N/A,0,N/A,N/A,N/A
+889,1/1/1900 18:30,3690,Monday,N/A,0,N/A,N/A,N/A
+890,1/1/1900 19:00,3690,Monday,N/A,0,N/A,N/A,N/A
+891,1/1/1900 19:30,3690,Monday,N/A,0,N/A,N/A,N/A
+892,1/1/1900 20:00,3690,Monday,N/A,0,N/A,N/A,N/A
+893,1/1/1900 20:30,3690,Monday,N/A,0,N/A,N/A,N/A
+894,1/1/1900 21:00,3690,Monday,N/A,0,N/A,N/A,N/A
+895,1/1/1900 21:30,3690,Monday,,0,,21:30,22:00
+896,1/1/1900 8:00,3690,Thursday,ISTE( 140)-Web&MobileI,31,John-Paul Takats,8:00,9:15
+897,1/1/1900 8:30,3690,Thursday,ISTE( 140)-Web&MobileI,31,John-Paul Takats,8:00,9:15
+898,1/1/1900 9:00,3690,Thursday,ISTE( 140)-Web&MobileI,31,John-Paul Takats,8:00,9:15
+899,1/1/1900 9:30,3690,Thursday,ISTE( 456)-MobileApplicationDevelopmentII,17,Bryan French,9:30,10:45
+900,1/1/1900 10:00,3690,Thursday,ISTE( 456)-MobileApplicationDevelopmentII,17,Bryan French,9:30,10:45
+901,1/1/1900 10:30,3690,Thursday,ISTE( 456)-MobileApplicationDevelopmentII,17,Bryan French,9:30,10:45
+902,1/1/1900 11:00,3690,Thursday,ISTE( 454)-MobileApplicationDevelopmentI,19,Bryan French,11:00,12:15
+903,1/1/1900 11:30,3690,Thursday,ISTE( 454)-MobileApplicationDevelopmentI,19,Bryan French,11:00,12:15
+904,1/1/1900 12:00,3690,Thursday,ISTE( 454)-MobileApplicationDevelopmentI,19,Bryan French,11:00,12:15
+905,1/1/1900 12:30,3690,Thursday,N/A,0,N/A,N/A,N/A
+906,1/1/1900 13:00,3690,Thursday,N/A,0,N/A,N/A,N/A
+907,1/1/1900 13:30,3690,Thursday,N/A,0,N/A,N/A,N/A
+908,1/1/1900 14:00,3690,Thursday,N/A,0,N/A,N/A,N/A
+909,1/1/1900 14:30,3690,Thursday,N/A,0,N/A,N/A,N/A
+910,1/1/1900 15:00,3690,Thursday,N/A,0,N/A,N/A,N/A
+911,1/1/1900 15:30,3690,Thursday,ISTE( 140)-Web&MobileI,32,John-Paul Takats,15:30,16:45
+912,1/1/1900 16:00,3690,Thursday,ISTE( 140)-Web&MobileI,32,John-Paul Takats,15:30,16:45
+913,1/1/1900 16:30,3690,Thursday,ISTE( 140)-Web&MobileI,32,John-Paul Takats,15:30,16:45
+914,1/1/1900 17:00,3690,Thursday,N/A,0,N/A,N/A,N/A
+915,1/1/1900 17:30,3690,Thursday,N/A,0,N/A,N/A,N/A
+916,1/1/1900 18:00,3690,Thursday,N/A,0,N/A,N/A,N/A
+917,1/1/1900 18:30,3690,Thursday,N/A,0,N/A,N/A,N/A
+918,1/1/1900 19:00,3690,Thursday,N/A,0,N/A,N/A,N/A
+919,1/1/1900 19:30,3690,Thursday,N/A,0,N/A,N/A,N/A
+920,1/1/1900 20:00,3690,Thursday,N/A,0,N/A,N/A,N/A
+921,1/1/1900 20:30,3690,Thursday,N/A,0,N/A,N/A,N/A
+922,1/1/1900 21:00,3690,Thursday,N/A,0,N/A,N/A,N/A
+923,1/1/1900 21:30,3690,Thursday,,0,,21:30,22:00
+924,1/1/1900 8:00,3690,Tuesday,ISTE( 140)-Web&MobileI,31,John-Paul Takats,8:00,9:15
+925,1/1/1900 8:30,3690,Tuesday,ISTE( 140)-Web&MobileI,31,John-Paul Takats,8:00,9:15
+926,1/1/1900 9:00,3690,Tuesday,ISTE( 140)-Web&MobileI,31,John-Paul Takats,8:00,9:15
+927,1/1/1900 9:30,3690,Tuesday,ISTE( 456)-MobileApplicationDevelopmentII,17,Bryan French,9:30,10:45
+928,1/1/1900 10:00,3690,Tuesday,ISTE( 456)-MobileApplicationDevelopmentII,17,Bryan French,9:30,10:45
+929,1/1/1900 10:30,3690,Tuesday,ISTE( 456)-MobileApplicationDevelopmentII,17,Bryan French,9:30,10:45
+930,1/1/1900 11:00,3690,Tuesday,ISTE( 454)-MobileApplicationDevelopmentI,19,Bryan French,11:00,12:15
+931,1/1/1900 11:30,3690,Tuesday,ISTE( 454)-MobileApplicationDevelopmentI,19,Bryan French,11:00,12:15
+932,1/1/1900 12:00,3690,Tuesday,ISTE( 454)-MobileApplicationDevelopmentI,19,Bryan French,11:00,12:15
+933,1/1/1900 12:30,3690,Tuesday,N/A,0,N/A,N/A,N/A
+934,1/1/1900 13:00,3690,Tuesday,N/A,0,N/A,N/A,N/A
+935,1/1/1900 13:30,3690,Tuesday,N/A,0,N/A,N/A,N/A
+936,1/1/1900 14:00,3690,Tuesday,N/A,0,N/A,N/A,N/A
+937,1/1/1900 14:30,3690,Tuesday,N/A,0,N/A,N/A,N/A
+938,1/1/1900 15:00,3690,Tuesday,N/A,0,N/A,N/A,N/A
+939,1/1/1900 15:30,3690,Tuesday,ISTE( 140)-Web&MobileI,32,John-Paul Takats,15:30,16:45
+940,1/1/1900 16:00,3690,Tuesday,ISTE( 140)-Web&MobileI,32,John-Paul Takats,15:30,16:45
+941,1/1/1900 16:30,3690,Tuesday,ISTE( 140)-Web&MobileI,32,John-Paul Takats,15:30,16:45
+942,1/1/1900 17:00,3690,Tuesday,N/A,0,N/A,N/A,N/A
+943,1/1/1900 17:30,3690,Tuesday,N/A,0,N/A,N/A,N/A
+944,1/1/1900 18:00,3690,Tuesday,N/A,0,N/A,N/A,N/A
+945,1/1/1900 18:30,3690,Tuesday,N/A,0,N/A,N/A,N/A
+946,1/1/1900 19:00,3690,Tuesday,N/A,0,N/A,N/A,N/A
+947,1/1/1900 19:30,3690,Tuesday,N/A,0,N/A,N/A,N/A
+948,1/1/1900 20:00,3690,Tuesday,N/A,0,N/A,N/A,N/A
+949,1/1/1900 20:30,3690,Tuesday,N/A,0,N/A,N/A,N/A
+950,1/1/1900 21:00,3690,Tuesday,N/A,0,N/A,N/A,N/A
+951,1/1/1900 21:30,3690,Tuesday,,0,,21:30,22:00
+952,1/1/1900 8:00,3690,Wednesday,ISTE( 121)-CompProblemSolvingInfoDomainII,21,Bryan French,8:00,9:50
+953,1/1/1900 8:30,3690,Wednesday,ISTE( 121)-CompProblemSolvingInfoDomainII,21,Bryan French,8:00,9:50
+954,1/1/1900 9:00,3690,Wednesday,ISTE( 121)-CompProblemSolvingInfoDomainII,21,Bryan French,8:00,9:50
+955,1/1/1900 9:30,3690,Wednesday,ISTE( 121)-CompProblemSolvingInfoDomainII,21,Bryan French,8:00,9:50
+956,1/1/1900 10:00,3690,Wednesday,ISTE( 121)-CompProblemSolvingInfoDomainII,30,David Patric,10:00,11:50
+957,1/1/1900 10:30,3690,Wednesday,ISTE( 121)-CompProblemSolvingInfoDomainII,30,David Patric,10:00,11:50
+958,1/1/1900 11:00,3690,Wednesday,ISTE( 121)-CompProblemSolvingInfoDomainII,30,David Patric,10:00,11:50
+959,1/1/1900 11:30,3690,Wednesday,ISTE( 121)-CompProblemSolvingInfoDomainII,30,David Patric,10:00,11:50
+960,1/1/1900 12:00,3690,Wednesday,N/A,0,N/A,N/A,N/A
+961,1/1/1900 12:30,3690,Wednesday,N/A,0,N/A,N/A,N/A
+962,1/1/1900 13:00,3690,Wednesday,ISTE( 341)-ServerProgramming,30,Bryan French,13:00,13:50
+963,1/1/1900 13:30,3690,Wednesday,ISTE( 341)-ServerProgramming,30,Bryan French,13:00,13:50
+964,1/1/1900 14:00,3690,Wednesday,ISTE( 121)-CompProblemSolvingInfoDomainII,32,Edward Holden,14:00,15:50
+965,1/1/1900 14:30,3690,Wednesday,ISTE( 121)-CompProblemSolvingInfoDomainII,32,Edward Holden,14:00,15:50
+966,1/1/1900 15:00,3690,Wednesday,ISTE( 121)-CompProblemSolvingInfoDomainII,32,Edward Holden,14:00,15:50
+967,1/1/1900 15:30,3690,Wednesday,ISTE( 121)-CompProblemSolvingInfoDomainII,32,Edward Holden,14:00,15:50
+968,1/1/1900 16:00,3690,Wednesday,N/A,0,N/A,N/A,N/A
+969,1/1/1900 16:30,3690,Wednesday,N/A,0,N/A,N/A,N/A
+970,1/1/1900 17:00,3690,Wednesday,N/A,0,N/A,N/A,N/A
+971,1/1/1900 17:30,3690,Wednesday,N/A,0,N/A,N/A,N/A
+972,1/1/1900 18:00,3690,Wednesday,N/A,0,N/A,N/A,N/A
+973,1/1/1900 18:30,3690,Wednesday,N/A,0,N/A,N/A,N/A
+974,1/1/1900 19:00,3690,Wednesday,N/A,0,N/A,N/A,N/A
+975,1/1/1900 19:30,3690,Wednesday,N/A,0,N/A,N/A,N/A
+976,1/1/1900 20:00,3690,Wednesday,N/A,0,N/A,N/A,N/A
+977,1/1/1900 20:30,3690,Wednesday,N/A,0,N/A,N/A,N/A
+978,1/1/1900 21:00,3690,Wednesday,N/A,0,N/A,N/A,N/A
+979,1/1/1900 21:30,3690,Wednesday,,0,,21:30,22:00
